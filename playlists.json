@@ -1,0 +1,18 @@
+[
+    {
+        "id":  "playlist-rain",
+        "emoji":  "🌧️",
+        "title":  "비 오는 날 새벽에 듣는 노래",
+        "desc":  "창밖 빗소리랑 같이 듣는 9곡",
+        "date":  "2026-10-21",
+        "post":  "https://www.instagram.com/p/DevAtmrkwYQ/",
+        "spotify":  "https://open.spotify.com/playlist/3wUr9b7rx7V4BCetM7Zrle",
+        "youtube":  "https://music.youtube.com/playlist?list=PLNXd1t17e9V4",
+        "covers":  [
+                       "covers/6FZAc2XaVYc8G8jaDnBshv.jpg",
+                       "covers/1VnjByC7TUx5A73A4qtgoo.jpg",
+                       "covers/1Bb6jVrsg8cXxMCBxIWJUn.jpg",
+                       "covers/2WdAV1VqmllcEznKlVOFxG.jpg"
+                   ]
+    }
+]
