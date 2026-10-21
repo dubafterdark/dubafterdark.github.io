@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dub after dark · playlists</title>
+<meta name="description" content="해가 진 뒤 듣는 플레이리스트 — Instagram @dub.after.dark">
+<meta property="og:title" content="dub after dark · playlists">
+<meta property="og:description" content="해가 진 뒤 듣는 플레이리스트 모음">
+<meta property="og:image" content="logo.png">
+<link rel="icon" href="logo.png">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #0a1220; --text: #eef3ff; --sub: #a9b8d4; --accent: #a9c8ff; --glass: rgba(16,26,46,.62); --line: rgba(255,255,255,.12); }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { min-height: 100vh; background: var(--bg); color: var(--text); font-family: 'Noto Sans KR', system-ui, sans-serif; word-break: keep-all; }
+  /* blurred city lights behind rain, same mood as the cards */
+  body::before { content: ""; position: fixed; inset: 0; z-index: -2;
+    background: radial-gradient(circle at 20% 70%, rgba(255,176,92,.22), transparent 28%),
+                radial-gradient(circle at 80% 60%, rgba(120,170,255,.25), transparent 30%),
+                radial-gradient(circle at 55% 95%, rgba(150,120,255,.22), transparent 30%),
+                linear-gradient(#0a1424, #16263d 60%, #0c1322); }
+  canvas#rain { position: fixed; inset: 0; z-index: -1; pointer-events: none; }
+  main { max-width: 520px; margin: 0 auto; padding: 48px 16px 64px; }
+  header { text-align: center; margin-bottom: 32px; }
+  header img { width: 96px; height: 96px; border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,.5); }
+  header h1 { font-size: 26px; font-weight: 900; margin-top: 14px; letter-spacing: .5px; }
+  header p { color: var(--sub); margin-top: 6px; font-size: 15px; }
+  header a.ig { display: inline-block; margin-top: 12px; color: var(--accent); text-decoration: none; font-size: 14px; }
+  .label { font-size: 12px; letter-spacing: 3px; color: var(--accent); margin: 0 4px 12px; font-weight: 700; }
+  .card { display: flex; gap: 14px; padding: 14px; margin-bottom: 14px; border-radius: 20px; background: var(--glass);
+    border: 1px solid var(--line); backdrop-filter: blur(14px); box-shadow: 0 12px 34px rgba(0,0,0,.3); }
+  .card.new { border-color: rgba(169,200,255,.45); }
+  .art { flex: none; width: 92px; height: 92px; display: grid; grid-template-columns: 1fr 1fr; border-radius: 12px; overflow: hidden; }
+  .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .info { min-width: 0; flex: 1; display: flex; flex-direction: column; }
+  .info h2 { font-size: 17px; font-weight: 700; line-height: 1.35; }
+  .info .meta { font-size: 13px; color: var(--sub); margin-top: 3px; }
+  .badge { display: inline-block; font-size: 11px; font-weight: 700; color: #0a1220; background: var(--accent); border-radius: 6px; padding: 1px 6px; margin-right: 6px; vertical-align: 2px; }
+  .btns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; padding-top: 10px; }
+  .btns a { flex: 1 1 0; min-width: 0; text-align: center; font-size: 12.5px; font-weight: 700; text-decoration: none; color: var(--text);
+    padding: 8px 6px; border-radius: 999px; border: 1px solid var(--line); background: rgba(255,255,255,.06);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .btns a.yt { flex-grow: 1.6; }
+  .btns a.sp:hover { background: #1ed76022; } .btns a.yt:hover { background: #ff000022; } .btns a.ig:hover { background: #ffffff18; }
+  @media (max-width: 400px) { .art { width: 76px; height: 76px; } .info h2 { font-size: 16px; } }
+  footer { text-align: center; margin-top: 36px; color: var(--sub); font-size: 13px; line-height: 1.8; }
+  footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<canvas id="rain"></canvas>
+<main>
+  <header>
+    <img src="logo.png" alt="dub after dark">
+    <h1>dub after dark</h1>
+    <p>🌙 해가 진 뒤 듣는 플레이리스트</p>
+    <a class="ig" href="https://www.instagram.com/dub.after.dark/">Instagram @dub.after.dark</a>
+  </header>
+  <div class="label">PLAYLISTS</div>
+  <section id="list"></section>
+  <footer>
+    🎹 직접 만든 음악은 <a href="https://www.instagram.com/djskulldub/">@djskulldub</a><br>
+    협업 · 문의는 Instagram DM
+  </footer>
+</main>
+<script>
+  const esc = t => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+  fetch('playlists.json?v=' + Date.now()).then(r => r.json()).then(items => {
+    document.getElementById('list').innerHTML = items.map((p, i) => `
+      <article class="card${i === 0 ? ' new' : ''}">
+        <div class="art">${p.covers.slice(0, 4).map(c => `<img src="${esc(c)}" alt="" loading="lazy">`).join('')}</div>
+        <div class="info">
+          <h2>${i === 0 ? '<span class="badge">NEW</span>' : ''}${esc(p.emoji)} ${esc(p.title)}</h2>
+          <div class="meta">${esc(p.desc)} · ${esc(p.date)}</div>
+          <div class="btns">
+            ${p.spotify ? `<a class="sp" href="${esc(p.spotify)}">Spotify</a>` : ''}
+            ${p.youtube ? `<a class="yt" href="${esc(p.youtube)}">YouTube Music</a>` : ''}
+            ${p.post ? `<a class="ig" href="${esc(p.post)}">게시물</a>` : ''}
+          </div>
+        </div>
+      </article>`).join('');
+  });
+
+  // light falling rain
+  const cv = document.getElementById('rain'), x = cv.getContext('2d');
+  let drops = [];
+  function size() { cv.width = innerWidth; cv.height = innerHeight;
+    drops = Array.from({ length: Math.round(innerWidth * innerHeight / 9000) }, () => ({ x: Math.random() * innerWidth, y: Math.random() * innerHeight, v: 4 + Math.random() * 6, l: 10 + Math.random() * 18 })); }
+  addEventListener('resize', size); size();
+  const still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  (function tick() {
+    x.clearRect(0, 0, cv.width, cv.height); x.strokeStyle = 'rgba(210,225,255,.16)'; x.lineWidth = 1;
+    for (const d of drops) { x.beginPath(); x.moveTo(d.x, d.y); x.lineTo(d.x - d.l * .1, d.y + d.l); x.stroke();
+      if (!still) { d.y += d.v; d.x -= d.v * .1; if (d.y > cv.height) { d.y = -20; d.x = Math.random() * cv.width; } } }
+    if (!still) requestAnimationFrame(tick);
+  })();
+</script>
+</body>
+</html>
