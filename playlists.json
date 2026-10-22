@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-beer-alone",
+        "emoji":  "🍺",
+        "title":  "혼자 마시는 맥주 한 캔이랑 어울리는 노래",
+        "desc":  "딸깍, 캔 따는 소리부터 시작하는 혼술 9곡",
+        "date":  "2026-10-22",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2REs2idhwtdA3C8bQFiiAU",
+        "youtube":  "https://music.youtube.com/playlist?list=PLI1-sqi8kgys",
+        "covers":  [
+                       "covers/1xWVYPdaLm909DbFmuPGOR.jpg",
+                       "covers/1sNp0dhI8kFfosF7ZCXsxK.jpg",
+                       "covers/3eHkFA3StDR9BU7EVrUFLs.jpg",
+                       "covers/3yUNSNlU0h7ag5DTABjr2a.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fri-evening",
         "emoji":  "🎉",
         "title":  "불금 저녁, 약속 가는 길 텐션 업",
