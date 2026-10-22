@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fri-evening",
+        "emoji":  "🎉",
+        "title":  "불금 저녁, 약속 가는 길 텐션 업",
+        "desc":  "도착 전에 텐션 끝까지 올려 줄 9곡",
+        "date":  "2026-10-22",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5qRvoLo5K1BWDNLrgmvtEK",
+        "youtube":  "https://music.youtube.com/playlist?list=PLO7WhiqMrTgU",
+        "covers":  [
+                       "covers/0GsRx0gPft6RmijIwMsKmG.jpg",
+                       "covers/5QDLhrAOJJdNAmCTJ8xMyW.jpg",
+                       "covers/7KavHYqoVFNB3IUXfs5gvP.jpg",
+                       "covers/69kOkLUCkxIZYexIgSG8rq.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fri-morning",
         "emoji":  "☀️",
         "title":  "금요일 아침, 오늘만 버티면 주말",
