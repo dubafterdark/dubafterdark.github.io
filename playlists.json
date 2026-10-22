@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-2am",
+        "emoji":  "🌙",
+        "title":  "새벽 2시, 잠 안 올 때 듣는 노래",
+        "desc":  "불 끄고 누웠는데 생각만 많아지는 밤, 9곡",
+        "date":  "2026-10-22",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5OJLoBDs9LwvPn9Mgz17D6",
+        "youtube":  "https://music.youtube.com/playlist?list=PLezP6Fw485Ps",
+        "covers":  [
+                       "covers/30tYWTkLIQtZWnRIOqcHnJ.jpg",
+                       "covers/7JQH2lBMZ10ztDnpoeq6Ki.jpg",
+                       "covers/1oAwsWBovWRIp7qLMGPIet.jpg",
+                       "covers/3eOXiUUfz9OhyVqoREsJYe.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-evening-commute",
         "emoji":  "🚇",
         "title":  "퇴근길 지하철, 이어폰 꽂고 듣는 노래",
