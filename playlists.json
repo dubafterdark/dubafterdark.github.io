@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-cafe-window",
+        "emoji":  "☕",
+        "title":  "주말 오후, 카페 창가에서",
+        "desc":  "햇살 드는 자리, 커피 한 잔이랑 듣는 9곡",
+        "date":  "2026-10-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5vdxfpIIzpnlFqYHR9uTUc",
+        "youtube":  "https://music.youtube.com/playlist?list=PLfxrhFCPfRIw",
+        "covers":  [
+                       "covers/429NtPmr12aypzFH3FkN9l.jpg",
+                       "covers/0y3Or3Ksql1TuNNphS1ugb.jpg",
+                       "covers/5qII2n90lVdPDcgXEEVHNy.jpg",
+                       "covers/0BgbobvykXxEvxo2HhCuvM.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-beer-alone",
         "emoji":  "🍺",
         "title":  "혼자 마시는 맥주 한 캔이랑 어울리는 노래",
