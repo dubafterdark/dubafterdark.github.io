@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fri-morning",
+        "emoji":  "☀️",
+        "title":  "금요일 아침, 오늘만 버티면 주말",
+        "desc":  "출근길 발걸음 가볍게 만드는 9곡",
+        "date":  "2026-10-22",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/0nDsRzQTARG2jnU4AL8vTF",
+        "youtube":  "https://music.youtube.com/playlist?list=PLcdugzYDPpnw",
+        "covers":  [
+                       "covers/39gaUtq2z4ejJbno7tWHbL.jpg",
+                       "covers/20tMQD6mORg6ZTiLmUSZly.jpg",
+                       "covers/2qSkIjg1o9h3YT9RAgYN75.jpg",
+                       "covers/0JLcfQTtEf3Whtj59OhS0f.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-2am",
         "emoji":  "🌙",
         "title":  "새벽 2시, 잠 안 올 때 듣는 노래",
