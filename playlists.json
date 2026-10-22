@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-evening-commute",
+        "emoji":  "🚇",
+        "title":  "퇴근길 지하철, 이어폰 꽂고 듣는 노래",
+        "desc":  "오늘도 버틴 나에게 주는 9곡",
+        "date":  "2026-10-22",
+        "post":  "https://www.instagram.com/p/DeyvOp_mfoq/",
+        "spotify":  "https://open.spotify.com/playlist/29gnvBHhNYw1PlXSrn7mD0",
+        "youtube":  "https://music.youtube.com/playlist?list=PLSzwl5NtMfaM",
+        "covers":  [
+                       "covers/2SVVvS6o2eA5ZYfqmuxLDh.jpg",
+                       "covers/3r8RuvgbX9s7ammBn07D3W.jpg",
+                       "covers/1jXfVzMk8cSbvAXMML4Y4f.jpg",
+                       "covers/1Q7EgiMOuwDcB0PJC6AzON.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-morning-commute",
         "emoji":  "☀️",
         "title":  "출근길 잠 깨우는 노래",
