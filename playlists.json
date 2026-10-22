@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-hangang-night",
+        "emoji":  "🌉",
+        "title":  "한강 야경 보면서 듣는 노래",
+        "desc":  "강바람 맞으면서 듣기 좋은 9곡",
+        "date":  "2026-10-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7nEGguCUL1uHVI1jXDzIBY",
+        "youtube":  "https://music.youtube.com/playlist?list=PLZT92Ff7AWXw",
+        "covers":  [
+                       "covers/3OrmrZSVQJ8Kt017K51aF2.jpg",
+                       "covers/2lWfyAvn4jbmGD0JWJ5DgL.jpg",
+                       "covers/6DA7kCWYMggJjqPM84V2Ng.jpg",
+                       "covers/6TFO7bRauf2CEXh9qy2QcY.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-cafe-window",
         "emoji":  "☕",
         "title":  "주말 오후, 카페 창가에서",
