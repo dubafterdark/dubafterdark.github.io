@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sunday-night",
+        "emoji":  "🌙",
+        "title":  "월요병 오기 전, 일요일 밤 플리",
+        "desc":  "내일 월요일인 거 잠깐만 잊게 해 줄 9곡",
+        "date":  "2026-10-24",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2XGJEF5vdfT6btFjf8cmfs",
+        "youtube":  "https://music.youtube.com/playlist?list=PLVGDOW5husI8",
+        "covers":  [
+                       "covers/2QjOHCTQ1Jl3zawyYOpxh6.jpg",
+                       "covers/0P3w8D7NAJb5xYvSQBpHq9.jpg",
+                       "covers/0T5iIrXA4p5GsubkhuBIKV.jpg",
+                       "covers/2plbrEY59IikOBgBGLjaoe.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sunday-laundry",
         "emoji":  "🧺",
         "title":  "일요일 오후, 빨래 개면서 듣는 노래",
