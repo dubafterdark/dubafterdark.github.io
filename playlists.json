@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sunday-laundry",
+        "emoji":  "🧺",
+        "title":  "일요일 오후, 빨래 개면서 듣는 노래",
+        "desc":  "빨래 개다가 혼자 여는 거실 콘서트 9곡",
+        "date":  "2026-10-24",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1YYNCA5XznLDZGWyIoF7zM",
+        "youtube":  "https://music.youtube.com/playlist?list=PLL8iPa7QcYb4",
+        "covers":  [
+                       "covers/1qYKWcEOrh2tM8PlgIm8K1.jpg",
+                       "covers/0bRXwKfigvpKZUurwqAlEh.jpg",
+                       "covers/5sdQOyqq2IDhvmx2lHOpwd.jpg",
+                       "covers/3KkXRkHbMCARz0aVfEt68P.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-hangang-night",
         "emoji":  "🌉",
         "title":  "한강 야경 보면서 듣는 노래",
