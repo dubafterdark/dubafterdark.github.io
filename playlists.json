@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-mon-morning",
+        "emoji":  "⏰",
+        "title":  "월요일 아침, 억지로라도 기분 올리는 노래",
+        "desc":  "알람 5번 끄고 일어난 월요일, 기분만은 올려 주는 9곡",
+        "date":  "2026-10-26",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5USUF58E0ZuriHSe0BEJiG",
+        "youtube":  "https://music.youtube.com/playlist?list=PLb26WIeQr6zQ",
+        "covers":  [
+                       "covers/32OlwWuMpZ6b0aN2RZOeMS.jpg",
+                       "covers/0cqRj7pUJDkTCEsJkx8snD.jpg",
+                       "covers/2RlgNHKcydI9sayD2Df2xp.jpg",
+                       "covers/0bMoNdAnxNR0OuQbGDovrr.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sunday-laundry",
         "emoji":  "🧺",
         "title":  "일요일 오후, 빨래 개면서 듣는 노래",
