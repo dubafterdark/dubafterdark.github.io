@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-mon-commute",
+        "emoji":  "🌇",
+        "title":  "월요일 퇴근길 위로 플리",
+        "desc":  "월요일 버틴 나한테 주는 위로 9곡",
+        "date":  "2026-10-26",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2jUW4NFxykvzbdFRlWdGxr",
+        "youtube":  "https://music.youtube.com/playlist?list=PLOV6_ne0GLdY",
+        "covers":  [
+                       "covers/4U45aEWtQhrm8A5mxPaFZ7.jpg",
+                       "covers/1hOEq5q9L41E2YbLhVvW5x.jpg",
+                       "covers/1HNkqx9Ahdgi1Ixy2xkKkL.jpg",
+                       "covers/7l1qvxWjxcKpB9PCtBuTbU.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-mon-morning",
         "emoji":  "⏰",
         "title":  "월요일 아침, 억지로라도 기분 올리는 노래",
