@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-night-drive",
+        "emoji":  "🚗",
+        "title":  "새벽 고속도로 드라이브",
+        "desc":  "조금만 더 달리고 싶은 밤 9곡",
+        "date":  "2026-10-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6rCfvVbVWiGB9i0KnxOLge",
+        "youtube":  "https://music.youtube.com/playlist?list=PLIxLdfyJ_9tk",
+        "covers":  [
+                       "covers/6GyFP1nfCDB8lbD2bG0Hq9.jpg",
+                       "covers/6kH1sKkvgN4Yikake52glq.jpg",
+                       "covers/2cGxRwrMyEAp8dEbuZaVv6.jpg",
+                       "covers/3uA8SjMyDtwtt0jLPMQbVD.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-quit",
         "emoji":  "💼",
         "title":  "퇴사 마려울 때 듣는 노래",
