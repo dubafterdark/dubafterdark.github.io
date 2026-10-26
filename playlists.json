@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-quit",
+        "emoji":  "💼",
+        "title":  "퇴사 마려울 때 듣는 노래",
+        "desc":  "마음속 사직서 100장째인 날 9곡",
+        "date":  "2026-10-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3NfH5rqYkubO10PmxjDriR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLe07w3rp1Mns",
+        "covers":  [
+                       "covers/5qSssUuZhewBfa14CbHU3X.jpg",
+                       "covers/4w3tQBXhn5345eUXDGBWZG.jpg",
+                       "covers/42OTaKIDWseqiU8qflqjap.jpg",
+                       "covers/4r8lRYnoOGdEi6YyI5OC1o.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-rnb-vol1",
         "emoji":  "🌙",
         "title":  "새벽 국내 R\u0026B vol.1",
