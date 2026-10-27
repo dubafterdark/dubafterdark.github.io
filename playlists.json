@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-wed-morning",
+        "emoji":  "☀️",
+        "title":  "수요일 아침, 반 왔다 힘내",
+        "desc":  "이번 주 반 왔다, 기분 올려 주는 9곡",
+        "date":  "2026-10-28",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/51LmBEFrvIcrcjKtOBtO4U",
+        "youtube":  "https://music.youtube.com/playlist?list=PLLou7mNfRK9Y",
+        "covers":  [
+                       "covers/5R5NMy7zc7QPCfdvy8dvCQ.jpg",
+                       "covers/4Dvkj6JhhA12EX05fT7y2e.jpg",
+                       "covers/1SwZVVH9BnXtLRLi2cbFhw.jpg",
+                       "covers/3PfIrDoz19wz7qK7tYeu62.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-night-drive",
         "emoji":  "🚗",
         "title":  "새벽 고속도로 드라이브",
