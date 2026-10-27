@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-study",
+        "emoji":  "📚",
+        "title":  "공부·작업할 때 집중 잘 되는 노래",
+        "desc":  "이어폰 끼면 시작되는 집중 모드 9곡",
+        "date":  "2026-10-28",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/60YmfBw5M40mNp4rBmawGv",
+        "youtube":  "https://music.youtube.com/playlist?list=PLdlwy_5R8J-k",
+        "covers":  [
+                       "covers/0hNduWmlWmEmuwEFcYvRu1.jpg",
+                       "covers/2CuUB5MbfRShtunR8g5hjR.jpg",
+                       "covers/4xF4ZBGPZKxECeDFrqSAG4.jpg",
+                       "covers/152lZdxL1OR0ZMW6KquMif.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-wed-morning",
         "emoji":  "☀️",
         "title":  "수요일 아침, 반 왔다 힘내",
