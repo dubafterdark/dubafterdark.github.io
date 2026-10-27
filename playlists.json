@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-rnb-vol2",
+        "emoji":  "🌙",
+        "title":  "새벽 국내 R\u0026B vol.2",
+        "desc":  "불 끄고 이어폰 끼고 딱 3곡",
+        "date":  "2026-10-28",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/12q63tu8QtKTipElWHKlDP",
+        "youtube":  "https://music.youtube.com/playlist?list=PLBRZn4aXj7Ts",
+        "covers":  [
+                       "covers/0Yz3F0UGDibDe8uU69zmjn.jpg",
+                       "covers/09Nhl3YQnChjlq8WmJz7FS.jpg",
+                       "covers/0THW04vlFAkfflASMFam0t.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-study",
         "emoji":  "📚",
         "title":  "공부·작업할 때 집중 잘 되는 노래",
