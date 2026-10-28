@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-halloween-party",
+        "emoji":  "🎃",
+        "title":  "할로윈 파티 준비하면서 듣는 노래",
+        "desc":  "분장하면서 텐션 올리는 9곡",
+        "date":  "2026-10-29",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6aFGiIruJNvEmux6wHv6sS",
+        "youtube":  "https://music.youtube.com/playlist?list=PLZDTt4wKRYFc",
+        "covers":  [
+                       "covers/2Fxmhks0bxGSBdJ92vM42m.jpg",
+                       "covers/3m0y8qLoznUYi73SUBP8GI.jpg",
+                       "covers/3CYH422oy1cZNoo0GTG1TK.jpg",
+                       "covers/2VOomzT6VavJOGBeySqaMc.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-rnb-vol2",
         "emoji":  "🌙",
         "title":  "새벽 국내 R\u0026B vol.2",
