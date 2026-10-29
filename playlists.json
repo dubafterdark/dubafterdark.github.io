@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-wake-snooze",
+        "emoji":  "⏰",
+        "title":  "알람 끄고 5분만 더… 기상 플리",
+        "desc":  "이불 속에서 현관문까지 천천히 깨워 주는 9곡",
+        "date":  "2026-10-30",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1a0WHG77L6Hp6OBe6SzVvR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLOe0rJYSP_ig",
+        "covers":  [
+                       "covers/4iZ4pt7kvcaH6Yo8UoZ4s2.jpg",
+                       "covers/2iXdwVdzA0KrI2Q0iZNJbX.jpg",
+                       "covers/2uXlHCUbq9OMUwx3hrk06o.jpg",
+                       "covers/4Dr2hJ3EnVh2Aaot6fRwDO.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-halloween-drive",
         "emoji":  "🌕",
         "title":  "할로윈 밤 드라이브, 살짝 으스스한 노래",
