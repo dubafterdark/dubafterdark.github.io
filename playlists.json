@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-club-warmup",
+        "emoji":  "🪩",
+        "title":  "클럽 가기 전 예열 플리 — DJ skulldub 픽",
+        "desc":  "거울 앞에서부터 시작되는 불금, 텐션 예열 9곡",
+        "date":  "2026-10-30",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/206Z3zSnAUaKvz7xCj09Pm",
+        "youtube":  "https://music.youtube.com/playlist?list=PLF9fh8AZFaVw",
+        "covers":  [
+                       "covers/49X0LAl6faAusYq02PRAY6.jpg",
+                       "covers/44MuEHdlociG8KjhPhOVw5.jpg",
+                       "covers/4tKGFmENO69tZR9ahgZu48.jpg",
+                       "covers/0oYhOxvxd95jtTWXHkYsPh.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-khiphop-vol1",
         "emoji":  "🥄",
         "title":  "국힙 한 스푼 vol.1",
