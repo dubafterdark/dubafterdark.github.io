@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-khiphop-vol1",
+        "emoji":  "🥄",
+        "title":  "국힙 한 스푼 vol.1",
+        "desc":  "금요일 저녁, 이번 주 고생한 나한테 딱 3곡",
+        "date":  "2026-10-30",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5ZhRBSkdUofyt8lqf6bjf3",
+        "youtube":  "https://music.youtube.com/playlist?list=PLb3YH0cAmVjc",
+        "covers":  [
+                       "covers/2SMq0lOqCTHayWa9juoI0d.jpg",
+                       "covers/1iIhGHzzrzqQfuNkFI2qAn.jpg",
+                       "covers/2eLe81VDUQ5f0xFfc9cMWz.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-wake-snooze",
         "emoji":  "⏰",
         "title":  "알람 끄고 5분만 더… 기상 플리",
