@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-halloween-drive",
+        "emoji":  "🌕",
+        "title":  "할로윈 밤 드라이브, 살짝 으스스한 노래",
+        "desc":  "안개 낀 밤길, 살짝 오싹한 9곡",
+        "date":  "2026-10-31",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/43YvvbogcQWmnyOZ8cE1MK",
+        "youtube":  "https://music.youtube.com/playlist?list=PLbP5mbPKCvqo",
+        "covers":  [
+                       "covers/6zIfdCmmhPCX0cMquBsC37.jpg",
+                       "covers/70LcF31zb1H0PyJoS1Sx1r.jpg",
+                       "covers/1PtQJZVZIdWIYdARpZRDFO.jpg",
+                       "covers/6i0V12jOa3mr6uu4WYhUBr.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-halloween-homeparty",
         "emoji":  "🎃",
         "title":  "할로윈 홈파티 플리",
@@ -60,22 +76,6 @@
                        "covers/2iXdwVdzA0KrI2Q0iZNJbX.jpg",
                        "covers/2uXlHCUbq9OMUwx3hrk06o.jpg",
                        "covers/4Dr2hJ3EnVh2Aaot6fRwDO.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-halloween-drive",
-        "emoji":  "🌕",
-        "title":  "할로윈 밤 드라이브, 살짝 으스스한 노래",
-        "desc":  "안개 낀 밤길, 살짝 오싹한 9곡",
-        "date":  "2026-10-29",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/43YvvbogcQWmnyOZ8cE1MK",
-        "youtube":  "https://music.youtube.com/playlist?list=PLbP5mbPKCvqo",
-        "covers":  [
-                       "covers/6zIfdCmmhPCX0cMquBsC37.jpg",
-                       "covers/70LcF31zb1H0PyJoS1Sx1r.jpg",
-                       "covers/1PtQJZVZIdWIYdARpZRDFO.jpg",
-                       "covers/6i0V12jOa3mr6uu4WYhUBr.jpg"
                    ]
     },
     {
