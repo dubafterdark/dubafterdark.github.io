@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-halloween-homeparty",
+        "emoji":  "🎃",
+        "title":  "할로윈 홈파티 플리",
+        "desc":  "분장하고 친구들 부르고, 집에서 여는 할로윈 파티 9곡",
+        "date":  "2026-10-31",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7apYXsPHSg11TXAVF7ZbJt",
+        "youtube":  "https://music.youtube.com/playlist?list=PLBhUKSLD20v8",
+        "covers":  [
+                       "covers/08sp9tp1o93zoqtgPmu5PW.jpg",
+                       "covers/0xxZY5C9xxij3D1HkzbnfC.jpg",
+                       "covers/7jwQlYGpOml9ETGre1HqGA.jpg",
+                       "covers/4BZhUnXvXYRQJPClr0hhIC.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-club-warmup",
         "emoji":  "🪩",
         "title":  "클럽 가기 전 예열 플리 — DJ skulldub 픽",
