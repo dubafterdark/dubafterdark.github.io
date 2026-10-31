@@ -1,415 +1,420 @@
 [
     {
-        "id":  "playlist-halloween-drive",
-        "emoji":  "🌕",
-        "title":  "할로윈 밤 드라이브, 살짝 으스스한 노래",
-        "desc":  "안개 낀 밤길, 살짝 오싹한 9곡",
-        "date":  "2026-10-31",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/43YvvbogcQWmnyOZ8cE1MK",
-        "youtube":  "https://music.youtube.com/playlist?list=PLbP5mbPKCvqo",
-        "covers":  [
-                       "covers/6zIfdCmmhPCX0cMquBsC37.jpg",
-                       "covers/70LcF31zb1H0PyJoS1Sx1r.jpg",
-                       "covers/1PtQJZVZIdWIYdARpZRDFO.jpg",
-                       "covers/6i0V12jOa3mr6uu4WYhUBr.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-halloween-homeparty",
-        "emoji":  "🎃",
-        "title":  "할로윈 홈파티 플리",
-        "desc":  "분장하고 친구들 부르고, 집에서 여는 할로윈 파티 9곡",
-        "date":  "2026-10-31",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/7apYXsPHSg11TXAVF7ZbJt",
-        "youtube":  "https://music.youtube.com/playlist?list=PLBhUKSLD20v8",
-        "covers":  [
-                       "covers/08sp9tp1o93zoqtgPmu5PW.jpg",
-                       "covers/0xxZY5C9xxij3D1HkzbnfC.jpg",
-                       "covers/7jwQlYGpOml9ETGre1HqGA.jpg",
-                       "covers/4BZhUnXvXYRQJPClr0hhIC.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-club-warmup",
-        "emoji":  "🪩",
-        "title":  "클럽 가기 전 예열 플리 — DJ skulldub 픽",
-        "desc":  "거울 앞에서부터 시작되는 불금, 텐션 예열 9곡",
-        "date":  "2026-10-30",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/206Z3zSnAUaKvz7xCj09Pm",
-        "youtube":  "https://music.youtube.com/playlist?list=PLF9fh8AZFaVw",
-        "covers":  [
-                       "covers/49X0LAl6faAusYq02PRAY6.jpg",
-                       "covers/44MuEHdlociG8KjhPhOVw5.jpg",
-                       "covers/4tKGFmENO69tZR9ahgZu48.jpg",
-                       "covers/0oYhOxvxd95jtTWXHkYsPh.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-khiphop-vol1",
-        "emoji":  "🥄",
-        "title":  "국힙 한 스푼 vol.1",
-        "desc":  "금요일 저녁, 이번 주 고생한 나한테 딱 3곡",
-        "date":  "2026-10-30",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/5ZhRBSkdUofyt8lqf6bjf3",
-        "youtube":  "https://music.youtube.com/playlist?list=PLb3YH0cAmVjc",
-        "covers":  [
-                       "covers/2SMq0lOqCTHayWa9juoI0d.jpg",
-                       "covers/1iIhGHzzrzqQfuNkFI2qAn.jpg",
-                       "covers/2eLe81VDUQ5f0xFfc9cMWz.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-wake-snooze",
-        "emoji":  "⏰",
-        "title":  "알람 끄고 5분만 더… 기상 플리",
-        "desc":  "이불 속에서 현관문까지 천천히 깨워 주는 9곡",
-        "date":  "2026-10-30",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/1a0WHG77L6Hp6OBe6SzVvR",
-        "youtube":  "https://music.youtube.com/playlist?list=PLOe0rJYSP_ig",
-        "covers":  [
-                       "covers/4iZ4pt7kvcaH6Yo8UoZ4s2.jpg",
-                       "covers/2iXdwVdzA0KrI2Q0iZNJbX.jpg",
-                       "covers/2uXlHCUbq9OMUwx3hrk06o.jpg",
-                       "covers/4Dr2hJ3EnVh2Aaot6fRwDO.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-halloween-party",
-        "emoji":  "🎃",
-        "title":  "할로윈 파티 준비하면서 듣는 노래",
-        "desc":  "분장하면서 텐션 올리는 9곡",
-        "date":  "2026-10-29",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/6aFGiIruJNvEmux6wHv6sS",
-        "youtube":  "https://music.youtube.com/playlist?list=PLZDTt4wKRYFc",
-        "covers":  [
-                       "covers/2Fxmhks0bxGSBdJ92vM42m.jpg",
-                       "covers/3m0y8qLoznUYi73SUBP8GI.jpg",
-                       "covers/3CYH422oy1cZNoo0GTG1TK.jpg",
-                       "covers/2VOomzT6VavJOGBeySqaMc.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-rnb-vol2",
-        "emoji":  "🌙",
-        "title":  "새벽 국내 R\u0026B vol.2",
-        "desc":  "불 끄고 이어폰 끼고 딱 3곡",
-        "date":  "2026-10-28",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/12q63tu8QtKTipElWHKlDP",
-        "youtube":  "https://music.youtube.com/playlist?list=PLBRZn4aXj7Ts",
-        "covers":  [
-                       "covers/0Yz3F0UGDibDe8uU69zmjn.jpg",
-                       "covers/09Nhl3YQnChjlq8WmJz7FS.jpg",
-                       "covers/0THW04vlFAkfflASMFam0t.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-study",
-        "emoji":  "📚",
-        "title":  "공부·작업할 때 집중 잘 되는 노래",
-        "desc":  "이어폰 끼면 시작되는 집중 모드 9곡",
-        "date":  "2026-10-28",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/60YmfBw5M40mNp4rBmawGv",
-        "youtube":  "https://music.youtube.com/playlist?list=PLdlwy_5R8J-k",
-        "covers":  [
-                       "covers/0hNduWmlWmEmuwEFcYvRu1.jpg",
-                       "covers/2CuUB5MbfRShtunR8g5hjR.jpg",
-                       "covers/4xF4ZBGPZKxECeDFrqSAG4.jpg",
-                       "covers/152lZdxL1OR0ZMW6KquMif.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-wed-morning",
-        "emoji":  "☀️",
-        "title":  "수요일 아침, 반 왔다 힘내",
-        "desc":  "이번 주 반 왔다, 기분 올려 주는 9곡",
-        "date":  "2026-10-28",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/51LmBEFrvIcrcjKtOBtO4U",
-        "youtube":  "https://music.youtube.com/playlist?list=PLLou7mNfRK9Y",
-        "covers":  [
-                       "covers/5R5NMy7zc7QPCfdvy8dvCQ.jpg",
-                       "covers/4Dvkj6JhhA12EX05fT7y2e.jpg",
-                       "covers/1SwZVVH9BnXtLRLi2cbFhw.jpg",
-                       "covers/3PfIrDoz19wz7qK7tYeu62.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-night-drive",
-        "emoji":  "🚗",
-        "title":  "새벽 고속도로 드라이브",
-        "desc":  "조금만 더 달리고 싶은 밤 9곡",
-        "date":  "2026-10-27",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/6rCfvVbVWiGB9i0KnxOLge",
-        "youtube":  "https://music.youtube.com/playlist?list=PLIxLdfyJ_9tk",
-        "covers":  [
-                       "covers/6GyFP1nfCDB8lbD2bG0Hq9.jpg",
-                       "covers/6kH1sKkvgN4Yikake52glq.jpg",
-                       "covers/2cGxRwrMyEAp8dEbuZaVv6.jpg",
-                       "covers/3uA8SjMyDtwtt0jLPMQbVD.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-quit",
-        "emoji":  "💼",
-        "title":  "퇴사 마려울 때 듣는 노래",
-        "desc":  "마음속 사직서 100장째인 날 9곡",
-        "date":  "2026-10-27",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/3NfH5rqYkubO10PmxjDriR",
-        "youtube":  "https://music.youtube.com/playlist?list=PLe07w3rp1Mns",
-        "covers":  [
-                       "covers/5qSssUuZhewBfa14CbHU3X.jpg",
-                       "covers/4w3tQBXhn5345eUXDGBWZG.jpg",
-                       "covers/42OTaKIDWseqiU8qflqjap.jpg",
-                       "covers/4r8lRYnoOGdEi6YyI5OC1o.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-rnb-vol1",
-        "emoji":  "🌙",
-        "title":  "새벽 국내 R\u0026B vol.1",
-        "desc":  "아무 말 안 해도 되는 밤, 국내 R\u0026B 3곡",
-        "date":  "2026-10-26",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/7sLVfpbepg7MTmXKaAAMho",
-        "youtube":  "https://music.youtube.com/playlist?list=PLLiIriJ0YYCU",
-        "covers":  [
-                       "covers/6z1kLsntE7FuzKZHZWrXYN.jpg",
-                       "covers/34HSEUn4YGAFBW9OHGIkU7.jpg",
-                       "covers/2PcJoVkfjcbvoqBxV1Nj7y.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-mon-commute",
-        "emoji":  "🌇",
-        "title":  "월요일 퇴근길 위로 플리",
-        "desc":  "월요일 버틴 나한테 주는 위로 9곡",
-        "date":  "2026-10-26",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/2jUW4NFxykvzbdFRlWdGxr",
-        "youtube":  "https://music.youtube.com/playlist?list=PLOV6_ne0GLdY",
-        "covers":  [
-                       "covers/4U45aEWtQhrm8A5mxPaFZ7.jpg",
-                       "covers/1hOEq5q9L41E2YbLhVvW5x.jpg",
-                       "covers/1HNkqx9Ahdgi1Ixy2xkKkL.jpg",
-                       "covers/7l1qvxWjxcKpB9PCtBuTbU.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-mon-morning",
-        "emoji":  "⏰",
-        "title":  "월요일 아침, 억지로라도 기분 올리는 노래",
-        "desc":  "알람 5번 끄고 일어난 월요일, 기분만은 올려 주는 9곡",
-        "date":  "2026-10-26",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/5USUF58E0ZuriHSe0BEJiG",
-        "youtube":  "https://music.youtube.com/playlist?list=PLb26WIeQr6zQ",
-        "covers":  [
-                       "covers/32OlwWuMpZ6b0aN2RZOeMS.jpg",
-                       "covers/0cqRj7pUJDkTCEsJkx8snD.jpg",
-                       "covers/2RlgNHKcydI9sayD2Df2xp.jpg",
-                       "covers/0bMoNdAnxNR0OuQbGDovrr.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-sunday-laundry",
-        "emoji":  "🧺",
-        "title":  "일요일 오후, 빨래 개면서 듣는 노래",
-        "desc":  "빨래 개다가 혼자 여는 거실 콘서트 9곡",
-        "date":  "2026-10-25",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/1YYNCA5XznLDZGWyIoF7zM",
-        "youtube":  "https://music.youtube.com/playlist?list=PLL8iPa7QcYb4",
-        "covers":  [
-                       "covers/1qYKWcEOrh2tM8PlgIm8K1.jpg",
-                       "covers/0bRXwKfigvpKZUurwqAlEh.jpg",
-                       "covers/5sdQOyqq2IDhvmx2lHOpwd.jpg",
-                       "covers/3KkXRkHbMCARz0aVfEt68P.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-sunday-night",
-        "emoji":  "🌙",
-        "title":  "월요병 오기 전, 일요일 밤 플리",
-        "desc":  "내일 월요일인 거 잠깐만 잊게 해 줄 9곡",
-        "date":  "2026-10-24",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/2XGJEF5vdfT6btFjf8cmfs",
-        "youtube":  "https://music.youtube.com/playlist?list=PLVGDOW5husI8",
-        "covers":  [
-                       "covers/2QjOHCTQ1Jl3zawyYOpxh6.jpg",
-                       "covers/0P3w8D7NAJb5xYvSQBpHq9.jpg",
-                       "covers/0T5iIrXA4p5GsubkhuBIKV.jpg",
-                       "covers/2plbrEY59IikOBgBGLjaoe.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-hangang-night",
-        "emoji":  "🌉",
-        "title":  "한강 야경 보면서 듣는 노래",
-        "desc":  "강바람 맞으면서 듣기 좋은 9곡",
-        "date":  "2026-10-23",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/7nEGguCUL1uHVI1jXDzIBY",
-        "youtube":  "https://music.youtube.com/playlist?list=PLZT92Ff7AWXw",
-        "covers":  [
-                       "covers/3OrmrZSVQJ8Kt017K51aF2.jpg",
-                       "covers/2lWfyAvn4jbmGD0JWJ5DgL.jpg",
-                       "covers/6DA7kCWYMggJjqPM84V2Ng.jpg",
-                       "covers/6TFO7bRauf2CEXh9qy2QcY.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-cafe-window",
-        "emoji":  "☕",
-        "title":  "주말 오후, 카페 창가에서",
-        "desc":  "햇살 드는 자리, 커피 한 잔이랑 듣는 9곡",
-        "date":  "2026-10-23",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/5vdxfpIIzpnlFqYHR9uTUc",
-        "youtube":  "https://music.youtube.com/playlist?list=PLfxrhFCPfRIw",
-        "covers":  [
-                       "covers/429NtPmr12aypzFH3FkN9l.jpg",
-                       "covers/0y3Or3Ksql1TuNNphS1ugb.jpg",
-                       "covers/5qII2n90lVdPDcgXEEVHNy.jpg",
-                       "covers/0BgbobvykXxEvxo2HhCuvM.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-beer-alone",
-        "emoji":  "🍺",
-        "title":  "혼자 마시는 맥주 한 캔이랑 어울리는 노래",
-        "desc":  "딸깍, 캔 따는 소리부터 시작하는 혼술 9곡",
-        "date":  "2026-10-22",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/2REs2idhwtdA3C8bQFiiAU",
-        "youtube":  "https://music.youtube.com/playlist?list=PLI1-sqi8kgys",
-        "covers":  [
-                       "covers/1xWVYPdaLm909DbFmuPGOR.jpg",
-                       "covers/1sNp0dhI8kFfosF7ZCXsxK.jpg",
-                       "covers/3eHkFA3StDR9BU7EVrUFLs.jpg",
-                       "covers/3yUNSNlU0h7ag5DTABjr2a.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-fri-evening",
-        "emoji":  "🎉",
-        "title":  "불금 저녁, 약속 가는 길 텐션 업",
-        "desc":  "도착 전에 텐션 끝까지 올려 줄 9곡",
-        "date":  "2026-10-22",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/5qRvoLo5K1BWDNLrgmvtEK",
-        "youtube":  "https://music.youtube.com/playlist?list=PLO7WhiqMrTgU",
-        "covers":  [
-                       "covers/0GsRx0gPft6RmijIwMsKmG.jpg",
-                       "covers/5QDLhrAOJJdNAmCTJ8xMyW.jpg",
-                       "covers/7KavHYqoVFNB3IUXfs5gvP.jpg",
-                       "covers/69kOkLUCkxIZYexIgSG8rq.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-fri-morning",
-        "emoji":  "☀️",
-        "title":  "금요일 아침, 오늘만 버티면 주말",
-        "desc":  "출근길 발걸음 가볍게 만드는 9곡",
-        "date":  "2026-10-22",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/0nDsRzQTARG2jnU4AL8vTF",
-        "youtube":  "https://music.youtube.com/playlist?list=PLcdugzYDPpnw",
-        "covers":  [
-                       "covers/39gaUtq2z4ejJbno7tWHbL.jpg",
-                       "covers/20tMQD6mORg6ZTiLmUSZly.jpg",
-                       "covers/2qSkIjg1o9h3YT9RAgYN75.jpg",
-                       "covers/0JLcfQTtEf3Whtj59OhS0f.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-2am",
-        "emoji":  "🌙",
-        "title":  "새벽 2시, 잠 안 올 때 듣는 노래",
-        "desc":  "불 끄고 누웠는데 생각만 많아지는 밤, 9곡",
-        "date":  "2026-10-22",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/5OJLoBDs9LwvPn9Mgz17D6",
-        "youtube":  "https://music.youtube.com/playlist?list=PLezP6Fw485Ps",
-        "covers":  [
-                       "covers/30tYWTkLIQtZWnRIOqcHnJ.jpg",
-                       "covers/7JQH2lBMZ10ztDnpoeq6Ki.jpg",
-                       "covers/1oAwsWBovWRIp7qLMGPIet.jpg",
-                       "covers/3eOXiUUfz9OhyVqoREsJYe.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-evening-commute",
-        "emoji":  "🚇",
-        "title":  "퇴근길 지하철, 이어폰 꽂고 듣는 노래",
-        "desc":  "오늘도 버틴 나에게 주는 9곡",
-        "date":  "2026-10-22",
-        "post":  "https://www.instagram.com/p/DeyvOp_mfoq/",
-        "spotify":  "https://open.spotify.com/playlist/29gnvBHhNYw1PlXSrn7mD0",
-        "youtube":  "https://music.youtube.com/playlist?list=PLSzwl5NtMfaM",
-        "covers":  [
-                       "covers/2SVVvS6o2eA5ZYfqmuxLDh.jpg",
-                       "covers/3r8RuvgbX9s7ammBn07D3W.jpg",
-                       "covers/1jXfVzMk8cSbvAXMML4Y4f.jpg",
-                       "covers/1Q7EgiMOuwDcB0PJC6AzON.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-morning-commute",
-        "emoji":  "☀️",
-        "title":  "출근길 잠 깨우는 노래",
-        "desc":  "눈은 감겨도 귀는 먼저 일어나는 9곡",
-        "date":  "2026-10-22",
-        "post":  "https://www.instagram.com/p/DexfDQAkw7F/",
-        "spotify":  "https://open.spotify.com/playlist/5oSEtgwLAMF9DKz04gXpes",
-        "youtube":  "https://music.youtube.com/playlist?list=PLdlYHlU_WTZs",
-        "covers":  [
-                       "covers/0a4MMyCrzT0En247IhqZbD.jpg",
-                       "covers/1aKvZDoLGkNMxoRYgkckZG.jpg",
-                       "covers/0EhdXt3y460mTRsi97Pyk5.jpg",
-                       "covers/18nZWRpJIHzgb1SQr4ncwb.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-nightwalk",
-        "emoji":  "🌙",
-        "title":  "혼자 걷는 밤길, 이어폰 속 노래",
-        "desc":  "한 정거장 먼저 내려서 걷고 싶어지는 9곡",
-        "date":  "2026-10-21",
-        "post":  "https://www.instagram.com/p/DewdzzwCaxK/",
-        "spotify":  "https://open.spotify.com/playlist/62v6pdUIPOUNKfgGYSfEfH",
-        "youtube":  "https://music.youtube.com/playlist?list=PLEC6BHE1dDWE",
-        "covers":  [
-                       "covers/6ALfDt7beygWQQoH49UImQ.jpg",
-                       "covers/3uFDwY5EPKxnVhfjKHhnCP.jpg",
-                       "covers/66UcQu5LBo2A7AC0A5r0lI.jpg",
-                       "covers/5O2P9iiztwhomNh8xkR9lJ.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-rain",
-        "emoji":  "🌧️",
-        "title":  "비 오는 날 새벽에 듣는 노래",
-        "desc":  "창밖 빗소리랑 같이 듣는 9곡",
-        "date":  "2026-10-21",
-        "post":  "https://www.instagram.com/p/DevAtmrkwYQ/",
-        "spotify":  "https://open.spotify.com/playlist/3wUr9b7rx7V4BCetM7Zrle",
-        "youtube":  "https://music.youtube.com/playlist?list=PLNXd1t17e9V4",
-        "covers":  [
-                       "covers/6FZAc2XaVYc8G8jaDnBshv.jpg",
-                       "covers/1VnjByC7TUx5A73A4qtgoo.jpg",
-                       "covers/1Bb6jVrsg8cXxMCBxIWJUn.jpg",
-                       "covers/2WdAV1VqmllcEznKlVOFxG.jpg"
-                   ]
+        "value":  [
+                      {
+                          "id":  "playlist-halloween-drive",
+                          "emoji":  "🌕",
+                          "title":  "할로윈 밤 드라이브, 살짝 으스스한 노래",
+                          "desc":  "안개 낀 밤길, 살짝 오싹한 9곡",
+                          "date":  "2026-10-31",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/43YvvbogcQWmnyOZ8cE1MK",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLbP5mbPKCvqo",
+                          "covers":  [
+                                         "covers/6zIfdCmmhPCX0cMquBsC37.jpg",
+                                         "covers/70LcF31zb1H0PyJoS1Sx1r.jpg",
+                                         "covers/1PtQJZVZIdWIYdARpZRDFO.jpg",
+                                         "covers/6i0V12jOa3mr6uu4WYhUBr.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-halloween-homeparty",
+                          "emoji":  "🎃",
+                          "title":  "할로윈 홈파티 플리",
+                          "desc":  "분장하고 친구들 부르고, 집에서 여는 할로윈 파티 9곡",
+                          "date":  "2026-10-31",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/7apYXsPHSg11TXAVF7ZbJt",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLBhUKSLD20v8",
+                          "covers":  [
+                                         "covers/08sp9tp1o93zoqtgPmu5PW.jpg",
+                                         "covers/0xxZY5C9xxij3D1HkzbnfC.jpg",
+                                         "covers/7jwQlYGpOml9ETGre1HqGA.jpg",
+                                         "covers/4BZhUnXvXYRQJPClr0hhIC.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-club-warmup",
+                          "emoji":  "🪩",
+                          "title":  "클럽 가기 전 예열 플리 — DJ skulldub 픽",
+                          "desc":  "거울 앞에서부터 시작되는 불금, 텐션 예열 9곡",
+                          "date":  "2026-10-30",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/206Z3zSnAUaKvz7xCj09Pm",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLF9fh8AZFaVw",
+                          "covers":  [
+                                         "covers/49X0LAl6faAusYq02PRAY6.jpg",
+                                         "covers/44MuEHdlociG8KjhPhOVw5.jpg",
+                                         "covers/4tKGFmENO69tZR9ahgZu48.jpg",
+                                         "covers/0oYhOxvxd95jtTWXHkYsPh.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-khiphop-vol1",
+                          "emoji":  "🥄",
+                          "title":  "국힙 한 스푼 vol.1",
+                          "desc":  "금요일 저녁, 이번 주 고생한 나한테 딱 3곡",
+                          "date":  "2026-10-30",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/5ZhRBSkdUofyt8lqf6bjf3",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLb3YH0cAmVjc",
+                          "covers":  [
+                                         "covers/2SMq0lOqCTHayWa9juoI0d.jpg",
+                                         "covers/1iIhGHzzrzqQfuNkFI2qAn.jpg",
+                                         "covers/2eLe81VDUQ5f0xFfc9cMWz.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-wake-snooze",
+                          "emoji":  "⏰",
+                          "title":  "알람 끄고 5분만 더… 기상 플리",
+                          "desc":  "이불 속에서 현관문까지 천천히 깨워 주는 9곡",
+                          "date":  "2026-10-30",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/1a0WHG77L6Hp6OBe6SzVvR",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLOe0rJYSP_ig",
+                          "covers":  [
+                                         "covers/4iZ4pt7kvcaH6Yo8UoZ4s2.jpg",
+                                         "covers/2iXdwVdzA0KrI2Q0iZNJbX.jpg",
+                                         "covers/2uXlHCUbq9OMUwx3hrk06o.jpg",
+                                         "covers/4Dr2hJ3EnVh2Aaot6fRwDO.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-halloween-party",
+                          "emoji":  "🎃",
+                          "title":  "할로윈 파티 준비하면서 듣는 노래",
+                          "desc":  "분장하면서 텐션 올리는 9곡",
+                          "date":  "2026-10-29",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/6aFGiIruJNvEmux6wHv6sS",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLZDTt4wKRYFc",
+                          "covers":  [
+                                         "covers/2Fxmhks0bxGSBdJ92vM42m.jpg",
+                                         "covers/3m0y8qLoznUYi73SUBP8GI.jpg",
+                                         "covers/3CYH422oy1cZNoo0GTG1TK.jpg",
+                                         "covers/2VOomzT6VavJOGBeySqaMc.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-rnb-vol2",
+                          "emoji":  "🌙",
+                          "title":  "새벽 국내 R\u0026B vol.2",
+                          "desc":  "불 끄고 이어폰 끼고 딱 3곡",
+                          "date":  "2026-10-28",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/12q63tu8QtKTipElWHKlDP",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLBRZn4aXj7Ts",
+                          "covers":  [
+                                         "covers/0Yz3F0UGDibDe8uU69zmjn.jpg",
+                                         "covers/09Nhl3YQnChjlq8WmJz7FS.jpg",
+                                         "covers/0THW04vlFAkfflASMFam0t.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-study",
+                          "emoji":  "📚",
+                          "title":  "공부·작업할 때 집중 잘 되는 노래",
+                          "desc":  "이어폰 끼면 시작되는 집중 모드 9곡",
+                          "date":  "2026-10-28",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/60YmfBw5M40mNp4rBmawGv",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLdlwy_5R8J-k",
+                          "covers":  [
+                                         "covers/0hNduWmlWmEmuwEFcYvRu1.jpg",
+                                         "covers/2CuUB5MbfRShtunR8g5hjR.jpg",
+                                         "covers/4xF4ZBGPZKxECeDFrqSAG4.jpg",
+                                         "covers/152lZdxL1OR0ZMW6KquMif.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-wed-morning",
+                          "emoji":  "☀️",
+                          "title":  "수요일 아침, 반 왔다 힘내",
+                          "desc":  "이번 주 반 왔다, 기분 올려 주는 9곡",
+                          "date":  "2026-10-28",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/51LmBEFrvIcrcjKtOBtO4U",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLLou7mNfRK9Y",
+                          "covers":  [
+                                         "covers/5R5NMy7zc7QPCfdvy8dvCQ.jpg",
+                                         "covers/4Dvkj6JhhA12EX05fT7y2e.jpg",
+                                         "covers/1SwZVVH9BnXtLRLi2cbFhw.jpg",
+                                         "covers/3PfIrDoz19wz7qK7tYeu62.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-night-drive",
+                          "emoji":  "🚗",
+                          "title":  "새벽 고속도로 드라이브",
+                          "desc":  "조금만 더 달리고 싶은 밤 9곡",
+                          "date":  "2026-10-27",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/6rCfvVbVWiGB9i0KnxOLge",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLIxLdfyJ_9tk",
+                          "covers":  [
+                                         "covers/6GyFP1nfCDB8lbD2bG0Hq9.jpg",
+                                         "covers/6kH1sKkvgN4Yikake52glq.jpg",
+                                         "covers/2cGxRwrMyEAp8dEbuZaVv6.jpg",
+                                         "covers/3uA8SjMyDtwtt0jLPMQbVD.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-quit",
+                          "emoji":  "💼",
+                          "title":  "퇴사 마려울 때 듣는 노래",
+                          "desc":  "마음속 사직서 100장째인 날 9곡",
+                          "date":  "2026-10-27",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/3NfH5rqYkubO10PmxjDriR",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLe07w3rp1Mns",
+                          "covers":  [
+                                         "covers/5qSssUuZhewBfa14CbHU3X.jpg",
+                                         "covers/4w3tQBXhn5345eUXDGBWZG.jpg",
+                                         "covers/42OTaKIDWseqiU8qflqjap.jpg",
+                                         "covers/4r8lRYnoOGdEi6YyI5OC1o.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-rnb-vol1",
+                          "emoji":  "🌙",
+                          "title":  "새벽 국내 R\u0026B vol.1",
+                          "desc":  "아무 말 안 해도 되는 밤, 국내 R\u0026B 3곡",
+                          "date":  "2026-10-26",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/7sLVfpbepg7MTmXKaAAMho",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLLiIriJ0YYCU",
+                          "covers":  [
+                                         "covers/6z1kLsntE7FuzKZHZWrXYN.jpg",
+                                         "covers/34HSEUn4YGAFBW9OHGIkU7.jpg",
+                                         "covers/2PcJoVkfjcbvoqBxV1Nj7y.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-mon-commute",
+                          "emoji":  "🌇",
+                          "title":  "월요일 퇴근길 위로 플리",
+                          "desc":  "월요일 버틴 나한테 주는 위로 9곡",
+                          "date":  "2026-10-26",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/2jUW4NFxykvzbdFRlWdGxr",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLOV6_ne0GLdY",
+                          "covers":  [
+                                         "covers/4U45aEWtQhrm8A5mxPaFZ7.jpg",
+                                         "covers/1hOEq5q9L41E2YbLhVvW5x.jpg",
+                                         "covers/1HNkqx9Ahdgi1Ixy2xkKkL.jpg",
+                                         "covers/7l1qvxWjxcKpB9PCtBuTbU.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-mon-morning",
+                          "emoji":  "⏰",
+                          "title":  "월요일 아침, 억지로라도 기분 올리는 노래",
+                          "desc":  "알람 5번 끄고 일어난 월요일, 기분만은 올려 주는 9곡",
+                          "date":  "2026-10-26",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/5USUF58E0ZuriHSe0BEJiG",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLb26WIeQr6zQ",
+                          "covers":  [
+                                         "covers/32OlwWuMpZ6b0aN2RZOeMS.jpg",
+                                         "covers/0cqRj7pUJDkTCEsJkx8snD.jpg",
+                                         "covers/2RlgNHKcydI9sayD2Df2xp.jpg",
+                                         "covers/0bMoNdAnxNR0OuQbGDovrr.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-sunday-laundry",
+                          "emoji":  "🧺",
+                          "title":  "일요일 오후, 빨래 개면서 듣는 노래",
+                          "desc":  "빨래 개다가 혼자 여는 거실 콘서트 9곡",
+                          "date":  "2026-10-25",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/1YYNCA5XznLDZGWyIoF7zM",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLL8iPa7QcYb4",
+                          "covers":  [
+                                         "covers/1qYKWcEOrh2tM8PlgIm8K1.jpg",
+                                         "covers/0bRXwKfigvpKZUurwqAlEh.jpg",
+                                         "covers/5sdQOyqq2IDhvmx2lHOpwd.jpg",
+                                         "covers/3KkXRkHbMCARz0aVfEt68P.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-sunday-night",
+                          "emoji":  "🌙",
+                          "title":  "월요병 오기 전, 일요일 밤 플리",
+                          "desc":  "내일 월요일인 거 잠깐만 잊게 해 줄 9곡",
+                          "date":  "2026-10-24",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/2XGJEF5vdfT6btFjf8cmfs",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLVGDOW5husI8",
+                          "covers":  [
+                                         "covers/2QjOHCTQ1Jl3zawyYOpxh6.jpg",
+                                         "covers/0P3w8D7NAJb5xYvSQBpHq9.jpg",
+                                         "covers/0T5iIrXA4p5GsubkhuBIKV.jpg",
+                                         "covers/2plbrEY59IikOBgBGLjaoe.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-hangang-night",
+                          "emoji":  "🌉",
+                          "title":  "한강 야경 보면서 듣는 노래",
+                          "desc":  "강바람 맞으면서 듣기 좋은 9곡",
+                          "date":  "2026-10-23",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/7nEGguCUL1uHVI1jXDzIBY",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLZT92Ff7AWXw",
+                          "covers":  [
+                                         "covers/3OrmrZSVQJ8Kt017K51aF2.jpg",
+                                         "covers/2lWfyAvn4jbmGD0JWJ5DgL.jpg",
+                                         "covers/6DA7kCWYMggJjqPM84V2Ng.jpg",
+                                         "covers/6TFO7bRauf2CEXh9qy2QcY.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-cafe-window",
+                          "emoji":  "☕",
+                          "title":  "주말 오후, 카페 창가에서",
+                          "desc":  "햇살 드는 자리, 커피 한 잔이랑 듣는 9곡",
+                          "date":  "2026-10-23",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/5vdxfpIIzpnlFqYHR9uTUc",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLfxrhFCPfRIw",
+                          "covers":  [
+                                         "covers/429NtPmr12aypzFH3FkN9l.jpg",
+                                         "covers/0y3Or3Ksql1TuNNphS1ugb.jpg",
+                                         "covers/5qII2n90lVdPDcgXEEVHNy.jpg",
+                                         "covers/0BgbobvykXxEvxo2HhCuvM.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-beer-alone",
+                          "emoji":  "🍺",
+                          "title":  "혼자 마시는 맥주 한 캔이랑 어울리는 노래",
+                          "desc":  "딸깍, 캔 따는 소리부터 시작하는 혼술 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/2REs2idhwtdA3C8bQFiiAU",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLI1-sqi8kgys",
+                          "covers":  [
+                                         "covers/1xWVYPdaLm909DbFmuPGOR.jpg",
+                                         "covers/1sNp0dhI8kFfosF7ZCXsxK.jpg",
+                                         "covers/3eHkFA3StDR9BU7EVrUFLs.jpg",
+                                         "covers/3yUNSNlU0h7ag5DTABjr2a.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-fri-evening",
+                          "emoji":  "🎉",
+                          "title":  "불금 저녁, 약속 가는 길 텐션 업",
+                          "desc":  "도착 전에 텐션 끝까지 올려 줄 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/5qRvoLo5K1BWDNLrgmvtEK",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLO7WhiqMrTgU",
+                          "covers":  [
+                                         "covers/0GsRx0gPft6RmijIwMsKmG.jpg",
+                                         "covers/5QDLhrAOJJdNAmCTJ8xMyW.jpg",
+                                         "covers/7KavHYqoVFNB3IUXfs5gvP.jpg",
+                                         "covers/69kOkLUCkxIZYexIgSG8rq.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-fri-morning",
+                          "emoji":  "☀️",
+                          "title":  "금요일 아침, 오늘만 버티면 주말",
+                          "desc":  "출근길 발걸음 가볍게 만드는 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/0nDsRzQTARG2jnU4AL8vTF",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLcdugzYDPpnw",
+                          "covers":  [
+                                         "covers/39gaUtq2z4ejJbno7tWHbL.jpg",
+                                         "covers/20tMQD6mORg6ZTiLmUSZly.jpg",
+                                         "covers/2qSkIjg1o9h3YT9RAgYN75.jpg",
+                                         "covers/0JLcfQTtEf3Whtj59OhS0f.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-2am",
+                          "emoji":  "🌙",
+                          "title":  "새벽 2시, 잠 안 올 때 듣는 노래",
+                          "desc":  "불 끄고 누웠는데 생각만 많아지는 밤, 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "",
+                          "spotify":  "https://open.spotify.com/playlist/5OJLoBDs9LwvPn9Mgz17D6",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLezP6Fw485Ps",
+                          "covers":  [
+                                         "covers/30tYWTkLIQtZWnRIOqcHnJ.jpg",
+                                         "covers/7JQH2lBMZ10ztDnpoeq6Ki.jpg",
+                                         "covers/1oAwsWBovWRIp7qLMGPIet.jpg",
+                                         "covers/3eOXiUUfz9OhyVqoREsJYe.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-evening-commute",
+                          "emoji":  "🚇",
+                          "title":  "퇴근길 지하철, 이어폰 꽂고 듣는 노래",
+                          "desc":  "오늘도 버틴 나에게 주는 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "https://www.instagram.com/p/DeyvOp_mfoq/",
+                          "spotify":  "https://open.spotify.com/playlist/29gnvBHhNYw1PlXSrn7mD0",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLSzwl5NtMfaM",
+                          "covers":  [
+                                         "covers/2SVVvS6o2eA5ZYfqmuxLDh.jpg",
+                                         "covers/3r8RuvgbX9s7ammBn07D3W.jpg",
+                                         "covers/1jXfVzMk8cSbvAXMML4Y4f.jpg",
+                                         "covers/1Q7EgiMOuwDcB0PJC6AzON.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-morning-commute",
+                          "emoji":  "☀️",
+                          "title":  "출근길 잠 깨우는 노래",
+                          "desc":  "눈은 감겨도 귀는 먼저 일어나는 9곡",
+                          "date":  "2026-10-22",
+                          "post":  "https://www.instagram.com/p/DexfDQAkw7F/",
+                          "spotify":  "https://open.spotify.com/playlist/5oSEtgwLAMF9DKz04gXpes",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLdlYHlU_WTZs",
+                          "covers":  [
+                                         "covers/0a4MMyCrzT0En247IhqZbD.jpg",
+                                         "covers/1aKvZDoLGkNMxoRYgkckZG.jpg",
+                                         "covers/0EhdXt3y460mTRsi97Pyk5.jpg",
+                                         "covers/18nZWRpJIHzgb1SQr4ncwb.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-nightwalk",
+                          "emoji":  "🌙",
+                          "title":  "혼자 걷는 밤길, 이어폰 속 노래",
+                          "desc":  "한 정거장 먼저 내려서 걷고 싶어지는 9곡",
+                          "date":  "2026-10-21",
+                          "post":  "https://www.instagram.com/p/DewdzzwCaxK/",
+                          "spotify":  "https://open.spotify.com/playlist/62v6pdUIPOUNKfgGYSfEfH",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLEC6BHE1dDWE",
+                          "covers":  [
+                                         "covers/6ALfDt7beygWQQoH49UImQ.jpg",
+                                         "covers/3uFDwY5EPKxnVhfjKHhnCP.jpg",
+                                         "covers/66UcQu5LBo2A7AC0A5r0lI.jpg",
+                                         "covers/5O2P9iiztwhomNh8xkR9lJ.jpg"
+                                     ]
+                      },
+                      {
+                          "id":  "playlist-rain",
+                          "emoji":  "🌧️",
+                          "title":  "비 오는 날 새벽에 듣는 노래",
+                          "desc":  "창밖 빗소리랑 같이 듣는 9곡",
+                          "date":  "2026-10-21",
+                          "post":  "https://www.instagram.com/p/DevAtmrkwYQ/",
+                          "spotify":  "https://open.spotify.com/playlist/3wUr9b7rx7V4BCetM7Zrle",
+                          "youtube":  "https://music.youtube.com/playlist?list=PLNXd1t17e9V4",
+                          "covers":  [
+                                         "covers/6FZAc2XaVYc8G8jaDnBshv.jpg",
+                                         "covers/1VnjByC7TUx5A73A4qtgoo.jpg",
+                                         "covers/1Bb6jVrsg8cXxMCBxIWJUn.jpg",
+                                         "covers/2WdAV1VqmllcEznKlVOFxG.jpg"
+                                     ]
+                      }
+                  ],
+        "Count":  26
     }
 ]
