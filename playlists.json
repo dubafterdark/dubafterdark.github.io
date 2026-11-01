@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-blanket",
+        "emoji":  "🛏️",
+        "title":  "이불 밖은 위험해, 이불 속 플리",
+        "desc":  "밖은 추운데 이불 속은 따뜻한 밤, 꼼짝하기 싫을 때 듣는 9곡",
+        "date":  "2026-11-02",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7a1sjVAiRxJ0LCiMc7PsZK",
+        "youtube":  "https://music.youtube.com/playlist?list=PLbmzIoDYw2Ss",
+        "covers":  [
+                       "covers/2y4hHM6c48Qzk0bqh33XfB.jpg",
+                       "covers/7LK8PsXpWP2okRiC5VnlLP.jpg",
+                       "covers/4xqrdfXkTW4T0RauPLv3WA.jpg",
+                       "covers/7uoFMmxln0GPXQ0AcCBXRq.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sunset-commute",
         "emoji":  "🌇",
         "title":  "퇴근길 노을 보면서 듣는 노래",
