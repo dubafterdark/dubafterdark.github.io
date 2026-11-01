@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-november-first",
+        "emoji":  "🍂",
+        "title":  "11월 첫날, 새 달 시작 플리",
+        "desc":  "달력 한 장 넘기고 다시 시작하는 날 9곡",
+        "date":  "2026-11-01",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/0rNvQhWNkWnICevgNF5QDv",
+        "youtube":  "https://music.youtube.com/playlist?list=PLCF9a3zsHGFA",
+        "covers":  [
+                       "covers/4kIpBfvK44bxqX7zo8K1oP.jpg",
+                       "covers/3W486X36Id1ChRaLhseMBj.jpg",
+                       "covers/09nEPqqMCJ5gNioi7M2dth.jpg",
+                       "covers/5MDMFoTpN4ZIDUjNRt3AoN.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-halloween-homeparty",
         "emoji":  "🎃",
         "title":  "할로윈 홈파티 플리",
