@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-bus-window",
+        "emoji":  "🚌",
+        "title":  "출근길 버스 창가 자리에서 듣는 노래",
+        "desc":  "월요일 아침, 창가 자리 득템하고 듣는 9곡",
+        "date":  "2026-11-02",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2ktoFZoxTzekFr10OmUwYs",
+        "youtube":  "https://music.youtube.com/playlist?list=PLcqpXbKrWAuw",
+        "covers":  [
+                       "covers/100N8P8WYnz9eCYuLYGflV.jpg",
+                       "covers/5odVIwBIUOCFJmzf7foiSo.jpg",
+                       "covers/19D8LNpWwIPpi6hs9BG7dq.jpg",
+                       "covers/6RBziRcDeiho3iTPdtEeg9.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-halloween-homeparty",
         "emoji":  "🎃",
         "title":  "할로윈 홈파티 플리",
