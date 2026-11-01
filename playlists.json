@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sunset-commute",
+        "emoji":  "🌇",
+        "title":  "퇴근길 노을 보면서 듣는 노래",
+        "desc":  "퇴근길 하늘이 주황색으로 물들 때 듣는 9곡",
+        "date":  "2026-11-02",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1kMHIHsRV15V0nNMSGIpSX",
+        "youtube":  "https://music.youtube.com/playlist?list=PLSNFs_HIrjnA",
+        "covers":  [
+                       "covers/3Ml2s37uS9jqRM2R3bfDiB.jpg",
+                       "covers/0E4Y1XIbs8GrAT1YqVy6dq.jpg",
+                       "covers/5Qy4FxZ6FtNwWmRaLi6Fcu.jpg",
+                       "covers/1jUkHIMc7UaJQuzWe5Iop2.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-bus-window",
         "emoji":  "🚌",
         "title":  "출근길 버스 창가 자리에서 듣는 노래",
