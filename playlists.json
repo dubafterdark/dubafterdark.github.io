@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-movie-alone",
+        "emoji":  "🎬",
+        "title":  "혼자 영화 보고 나와서 듣는 노래",
+        "desc":  "엔딩 크레딧 끝까지 보고 나온 밤, 여운 이어 가는 9곡",
+        "date":  "2026-11-01",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7dfYKSayWUw1z212Z19LqG",
+        "youtube":  "https://music.youtube.com/playlist?list=PLet_pn-6_2d8",
+        "covers":  [
+                       "covers/5GbVzc6Ex5LYlLJqzRQhuy.jpg",
+                       "covers/6EIVLz5xM1xE29r0OmIkWt.jpg",
+                       "covers/5yJaXWIErrrsjQ3J0eR5aK.jpg",
+                       "covers/1SKPmfSYaPsETbRHaiA18G.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-november-first",
         "emoji":  "🍂",
         "title":  "11월 첫날, 새 달 시작 플리",
