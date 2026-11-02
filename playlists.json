@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-cooking",
+        "emoji":  "🍳",
+        "title":  "요리하면서 듣는 노래",
+        "desc":  "저녁 하면서 흥얼흥얼, 주방 플리 9곡",
+        "date":  "2026-11-03",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2NrBAlTT7Hsw0fl2R6eKMs",
+        "youtube":  "https://music.youtube.com/playlist?list=PLX0NtZzyxGqk",
+        "covers":  [
+                       "covers/6UelLqGlWMcVH1E5c4H7lY.jpg",
+                       "covers/76hfruVvmfQbw0eYn1nmeC.jpg",
+                       "covers/6B8MM3PVQtUbZLay7tP7er.jpg",
+                       "covers/4iJyoBOLtHqaGxP12qzhQI.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-blanket",
         "emoji":  "🛏️",
         "title":  "이불 밖은 위험해, 이불 속 플리",
