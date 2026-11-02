@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-breakup-week",
+        "emoji":  "🌙",
+        "title":  "헤어지고 일주일째 되는 밤",
+        "desc":  "괜찮은 척하다 밤만 되면, 이별 플리 9곡",
+        "date":  "2026-11-03",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5ue4kf0pcospfhANVUzPJA",
+        "youtube":  "https://music.youtube.com/playlist?list=PLQQux3YXFk-4",
+        "covers":  [
+                       "covers/2rj6rzz1qLMrZf8yWFwp9r.jpg",
+                       "covers/7qEHsqek33rTcFNT9PFqLf.jpg",
+                       "covers/5zpwy5RSXaXbjZ7E6HfkzL.jpg",
+                       "covers/5wANPM4fQCJwkGd4rN57mH.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-cooking",
         "emoji":  "🍳",
         "title":  "요리하면서 듣는 노래",
