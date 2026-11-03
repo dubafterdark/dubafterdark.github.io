@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-morning-stretch",
+        "emoji":  "🧘",
+        "title":  "아침 스트레칭할 때 듣는 노래",
+        "desc":  "기지개부터 가벼운 운동까지, 아침 몸 깨우는 9곡",
+        "date":  "2026-11-04",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/067hNetVDsf2eUDfDkPEER",
+        "youtube":  "https://music.youtube.com/playlist?list=PLNCQnDtRfxkQ",
+        "covers":  [
+                       "covers/7DSAEUvxU8FajXtRloy8M0.jpg",
+                       "covers/7qiZfU4dY1lWllzX7mPBI3.jpg",
+                       "covers/74X2u8JMVooG2QbjRxXwR8.jpg",
+                       "covers/2tpWsVSb9UEmDRxAl1zhX1.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-breakup-week",
         "emoji":  "🌙",
         "title":  "헤어지고 일주일째 되는 밤",
