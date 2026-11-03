@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-running",
+        "emoji":  "🏃",
+        "title":  "러닝할 때 페이스 올려주는 노래",
+        "desc":  "다리 무거워질 때 한 곡씩 더, 퇴근하고 뛰는 9곡",
+        "date":  "2026-11-04",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/33dGEn8DzOMmYprUSywvJj",
+        "youtube":  "https://music.youtube.com/playlist?list=PLQWChBh5g9No",
+        "covers":  [
+                       "covers/3bidbhpOYeV4knp8AIu8Xn.jpg",
+                       "covers/0pqnGHJpmpxLKifKRmU6WP.jpg",
+                       "covers/0TDLuuLlV54CkRRUOahJb4.jpg",
+                       "covers/1SS0WlKhJewviwEDZ6dWj0.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-morning-stretch",
         "emoji":  "🧘",
         "title":  "아침 스트레칭할 때 듣는 노래",
