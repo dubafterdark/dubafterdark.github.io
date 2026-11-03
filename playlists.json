@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-old-friend",
+        "emoji":  "📼",
+        "title":  "오래된 친구가 생각나는 밤",
+        "desc":  "연락 한 번 해볼까 싶은 밤, 그 시절 친구 생각나는 9곡",
+        "date":  "2026-11-04",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6rvCLfK8Ej8U0agjYpvwOI",
+        "youtube":  "https://music.youtube.com/playlist?list=PLBvpAHaPy2bk",
+        "covers":  [
+                       "covers/16LATbHXLu0gh8MCw1hUGl.jpg",
+                       "covers/0OPtu3k4727xyRXVV5Yf6d.jpg",
+                       "covers/4cktbXiXOapiLBMprHFErI.jpg",
+                       "covers/1N9TrsZZXX8GQvOvD3PV23.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-running",
         "emoji":  "🏃",
         "title":  "러닝할 때 페이스 올려주는 노래",
