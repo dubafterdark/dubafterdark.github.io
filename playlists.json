@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-dawn-indie",
+        "emoji":  "🌙",
+        "title":  "새벽 감성 인디 플리",
+        "desc":  "불 끄고 누웠는데 생각만 많아지는 새벽, 조용히 틀어 두는 인디 9곡",
+        "date":  "2026-11-05",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3uqhbRF8NraNkalawthin0",
+        "youtube":  "https://music.youtube.com/playlist?list=PLGPqIxn4I32M",
+        "covers":  [
+                       "covers/4TBHfv2isYco3fNKjQ8oSI.jpg",
+                       "covers/2xGjfbXZnI8uQDhukoQURQ.jpg",
+                       "covers/03YtYSkpHqqY3EBmHJkTjP.jpg",
+                       "covers/4KA9VMFIKUUMjEcnwiylr1.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-movie-alone",
         "emoji":  "🎬",
         "title":  "혼자 영화 보고 나와서 듣는 노래",
