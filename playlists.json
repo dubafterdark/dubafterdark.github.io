@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fri-commute",
+        "emoji":  "☀️",
+        "title":  "금요일 출근길, 퇴근만 기다리는 노래",
+        "desc":  "오늘만 버티면 주말 · 신나는 9곡",
+        "date":  "2026-11-06",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/0HvaE3EsKd3HKlUIcPhgZZ",
+        "youtube":  "https://music.youtube.com/playlist?list=PLMyxMyYXb6ro",
+        "covers":  [
+                       "covers/friam-01.jpg",
+                       "covers/friam-02.jpg",
+                       "covers/friam-03.jpg",
+                       "covers/friam-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-dawn-indie",
         "emoji":  "🌙",
         "title":  "새벽 감성 인디 플리",
