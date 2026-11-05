@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-first-date",
+        "emoji":  "💗",
+        "title":  "첫 데이트 끝나고 집 가는 길",
+        "desc":  "이어폰 꽂고 혼자 웃게 되는 설렘 9곡",
+        "date":  "2026-11-06",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7ryD8SbQhFO82rIYCRMpUj",
+        "youtube":  "https://music.youtube.com/playlist?list=PLNwBW2kBnp68",
+        "covers":  [
+                       "covers/date-02.jpg",
+                       "covers/date-03.jpg",
+                       "covers/date-04.jpg",
+                       "covers/date-05.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-citypop-drive",
         "emoji":  "🌃",
         "title":  "불금 드라이브, 시티팝",
