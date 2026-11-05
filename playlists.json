@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-citypop-drive",
+        "emoji":  "🌃",
+        "title":  "불금 드라이브, 시티팝",
+        "desc":  "창문 내리고 볼륨 업 · 한일 시티팝 9곡",
+        "date":  "2026-11-06",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3sJWOXXDqpM2wrSF8BsoC8",
+        "youtube":  "https://music.youtube.com/playlist?list=PLCBUI9er8hYc",
+        "covers":  [
+                       "covers/citypop-01.jpg",
+                       "covers/citypop-02.jpg",
+                       "covers/citypop-03.jpg",
+                       "covers/citypop-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fri-commute",
         "emoji":  "☀️",
         "title":  "금요일 출근길, 퇴근만 기다리는 노래",
