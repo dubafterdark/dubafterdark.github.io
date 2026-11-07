@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-campfire",
+        "emoji":  "🔥",
+        "title":  "캠핑장 불멍하면서 듣는 노래",
+        "desc":  "장작 타는 소리 옆에 틀어두는 불멍 9곡",
+        "date":  "2026-11-07",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/10Uzr67wHsZLvOcHLwgSG7",
+        "youtube":  "https://music.youtube.com/playlist?list=PLFXBUemE5EWI",
+        "covers":  [
+                       "covers/camp-01.jpg",
+                       "covers/camp-02.jpg",
+                       "covers/camp-03.jpg",
+                       "covers/camp-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-first-date",
         "emoji":  "💗",
         "title":  "첫 데이트 끝나고 집 가는 길",
