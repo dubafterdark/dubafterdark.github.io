@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-lunch-walk",
+        "emoji":  "🍂",
+        "title":  "점심시간 20분 산책",
+        "desc":  "커피 한 잔 들고 가볍게 걷는 9곡",
+        "date":  "2026-11-08",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/0Bj53XTi8eJuYnQ1qGkJay",
+        "youtube":  "https://music.youtube.com/playlist?list=PLPfiKRjZEbns",
+        "covers":  [
+                       "covers/lunchwalk-01.jpg",
+                       "covers/lunchwalk-02.jpg",
+                       "covers/lunchwalk-03.jpg",
+                       "covers/lunchwalk-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-mon-subway",
         "emoji":  "🚇",
         "title":  "꽉 찬 월요일 지하철, 이어폰 속은 내 세상",
