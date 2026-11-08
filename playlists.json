@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sunday-recharge",
+        "emoji":  "🔋",
+        "title":  "다음 주 버틸 힘 주는 일요일 밤 노래",
+        "desc":  "월요일 오기 전날 밤, 힘 충전하는 9곡",
+        "date":  "2026-11-08",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/0UN2An4BtjtSzfAbI5XyCO",
+        "youtube":  "https://music.youtube.com/playlist?list=PLJxXXtEGSTzQ",
+        "covers":  [
+                       "covers/sunnight-01.jpg",
+                       "covers/sunnight-02.jpg",
+                       "covers/sunnight-03.jpg",
+                       "covers/sunnight-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-campfire",
         "emoji":  "🔥",
         "title":  "캠핑장 불멍하면서 듣는 노래",
