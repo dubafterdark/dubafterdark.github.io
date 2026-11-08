@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-mon-subway",
+        "emoji":  "🚇",
+        "title":  "꽉 찬 월요일 지하철, 이어폰 속은 내 세상",
+        "desc":  "출근길 텐션 끌어올리는 9곡",
+        "date":  "2026-11-08",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3Tc6Gfdus7pojcRThgcjce",
+        "youtube":  "https://music.youtube.com/playlist?list=PLJ6NPULXHOWY",
+        "covers":  [
+                       "covers/monsub-01.jpg",
+                       "covers/monsub-02.jpg",
+                       "covers/monsub-03.jpg",
+                       "covers/monsub-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sunday-recharge",
         "emoji":  "🔋",
         "title":  "다음 주 버틸 힘 주는 일요일 밤 노래",
