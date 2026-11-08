@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-lullaby",
+        "emoji":  "🌙",
+        "title":  "잠들기 전 10분, 자장가 같은 노래",
+        "desc":  "불 끄고 스르르 잠드는 9곡",
+        "date":  "2026-11-08",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1NdOtsN7OfP3mg0ZDiE4jN",
+        "youtube":  "https://music.youtube.com/playlist?list=PLV4FF_RdKKXM",
+        "covers":  [
+                       "covers/lullaby-01.jpg",
+                       "covers/lullaby-02.jpg",
+                       "covers/lullaby-03.jpg",
+                       "covers/lullaby-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-lunch-walk",
         "emoji":  "🍂",
         "title":  "점심시간 20분 산책",
