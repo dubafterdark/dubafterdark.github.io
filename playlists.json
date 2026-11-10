@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-confess-prep",
+        "emoji":  "🍫",
+        "title":  "빼빼로데이 전날, 고백 준비 플리",
+        "desc":  "내일 고백한다, 설렘 충전 9곡",
+        "date":  "2026-11-10",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4JIMp057OeeOStqVr8HjjP",
+        "youtube":  "https://music.youtube.com/playlist?list=PLN-MUlpHqmXo",
+        "covers":  [
+                       "covers/confess-01.jpg",
+                       "covers/confess-02.jpg",
+                       "covers/confess-03.jpg",
+                       "covers/confess-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-unsaid",
         "emoji":  "💌",
         "title":  "빼빼로데이 전날 밤, 말 못 한 마음 대신 전하는 노래",
