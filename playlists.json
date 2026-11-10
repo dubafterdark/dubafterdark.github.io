@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-pepero-morning",
+        "emoji":  "🍫",
+        "title":  "빼빼로데이 아침, 설레는 출근길",
+        "desc":  "가방에 빼빼로 하나, 달달한 출근길 9곡",
+        "date":  "2026-11-10",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1btzQuuc9cFhL4kyl8T9hR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLNA3d4hTQ96E",
+        "covers":  [
+                       "covers/pepam-01.jpg",
+                       "covers/pepam-02.jpg",
+                       "covers/pepam-03.jpg",
+                       "covers/pepam-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-confess-prep",
         "emoji":  "🍫",
         "title":  "빼빼로데이 전날, 고백 준비 플리",
