@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-pepero-couple",
+        "emoji":  "💝",
+        "title":  "빼빼로데이, 연인에게 보내는 노래",
+        "desc":  "퇴근하고 만나러 가는 길 9곡",
+        "date":  "2026-11-10",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4s9Q6TFyq89jxttCb4e6mK",
+        "youtube":  "https://music.youtube.com/playlist?list=PLUW67OJOkZpI",
+        "covers":  [
+                       "covers/pepcouple-01.jpg",
+                       "covers/pepcouple-03.jpg",
+                       "covers/pepcouple-04.jpg",
+                       "covers/pepcouple-06.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-pepero-morning",
         "emoji":  "🍫",
         "title":  "빼빼로데이 아침, 설레는 출근길",
