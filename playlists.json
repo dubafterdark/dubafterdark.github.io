@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-unsaid",
+        "emoji":  "💌",
+        "title":  "빼빼로데이 전날 밤, 말 못 한 마음 대신 전하는 노래",
+        "desc":  "입으로는 못 한 말, 노래로 대신 보내는 9곡",
+        "date":  "2026-11-10",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5cpft3eKu4ytSUGD4OSN4q",
+        "youtube":  "https://music.youtube.com/playlist?list=PLPO7la4WQHXM",
+        "covers":  [
+                       "covers/unsaid-01.jpg",
+                       "covers/unsaid-02.jpg",
+                       "covers/unsaid-03.jpg",
+                       "covers/unsaid-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-lullaby",
         "emoji":  "🌙",
         "title":  "잠들기 전 10분, 자장가 같은 노래",
