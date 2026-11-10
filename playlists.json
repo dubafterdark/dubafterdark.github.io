@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-pepero-solo",
+        "emoji":  "🍫",
+        "title":  "빼빼로데이, 솔로를 위한 플리",
+        "desc":  "혼자라서 더 신나는 밤 9곡",
+        "date":  "2026-11-10",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1D6Caty9JKaAWwU4AqVtnU",
+        "youtube":  "https://music.youtube.com/playlist?list=PLCeL-kPCVANU",
+        "covers":  [
+                       "covers/pepsolo2-01.jpg",
+                       "covers/pepsolo2-02.jpg",
+                       "covers/pepsolo2-03.jpg",
+                       "covers/pepsolo2-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-pepero-couple",
         "emoji":  "💝",
         "title":  "빼빼로데이, 연인에게 보내는 노래",
