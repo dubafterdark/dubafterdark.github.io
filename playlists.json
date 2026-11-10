@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-jachwi",
+        "emoji":  "🕯️",
+        "title":  "자취방의 밤, 혼자 사는 사람 인디 플리",
+        "desc":  "조용한 원룸을 채우는 인디 9곡",
+        "date":  "2026-11-11",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/64sedMFAUNaRVdU8JhcoSc",
+        "youtube":  "https://music.youtube.com/playlist?list=PLQ6o8Ay6Eg6s",
+        "covers":  [
+                       "covers/jachwi-01.jpg",
+                       "covers/jachwi-02.jpg",
+                       "covers/jachwi-03.jpg",
+                       "covers/jachwi-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-newstart",
         "emoji":  "🌱",
         "title":  "내일 첫 출근, 새 출발 응원 플리",
