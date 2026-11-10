@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-newstart",
+        "emoji":  "🌱",
+        "title":  "내일 첫 출근, 새 출발 응원 플리",
+        "desc":  "설렘 반 떨림 반, 새로운 시작 응원 9곡",
+        "date":  "2026-11-11",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5EUAClujz5UoXR4l5deUE3",
+        "youtube":  "https://music.youtube.com/playlist?list=PLDBgnk94qKn8",
+        "covers":  [
+                       "covers/newstart-01.jpg",
+                       "covers/newstart-02.jpg",
+                       "covers/newstart-03.jpg",
+                       "covers/newstart-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-pepero-solo",
         "emoji":  "🍫",
         "title":  "빼빼로데이, 솔로를 위한 플리",
