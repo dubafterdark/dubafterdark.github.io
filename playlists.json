@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-noraebang",
+        "emoji":  "🎤",
+        "title":  "퇴근하고 노래방 가고 싶어지는 노래",
+        "desc":  "불금 노래방 애창곡 9곡",
+        "date":  "2026-11-13",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1mEYqkLDf1L0tVYfXWg2PE",
+        "youtube":  "https://music.youtube.com/playlist?list=PLIRR9OM3j25w",
+        "covers":  [
+                       "covers/nrb-01.jpg",
+                       "covers/nrb-02.jpg",
+                       "covers/nrb-03.jpg",
+                       "covers/nrb-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-f13",
         "emoji":  "🐈‍⬛",
         "title":  "13일의 금요일 아침, 살짝 으스스한 출근길",
