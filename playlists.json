@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-train",
+        "emoji":  "🚆",
+        "title":  "늦가을 기차 여행, 돌아오는 저녁 기차",
+        "desc":  "노을 지는 창가 자리에서 듣는 9곡",
+        "date":  "2026-11-13",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6WjFZ3T8cVhIFp88idrxCj",
+        "youtube":  "https://music.youtube.com/playlist?list=PLHAarqMz-lEQ",
+        "covers":  [
+                       "covers/train-01.jpg",
+                       "covers/train-02.jpg",
+                       "covers/train-03.jpg",
+                       "covers/train-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-cvs",
         "emoji":  "🌙",
         "title":  "금요일 밤, 편의점 가는 길",
