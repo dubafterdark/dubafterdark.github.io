@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-cvs",
+        "emoji":  "🌙",
+        "title":  "금요일 밤, 편의점 가는 길",
+        "desc":  "괜히 한 바퀴 더 걷게 되는 9곡",
+        "date":  "2026-11-13",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2IWFQheT0kk4Ms7kzJ86Mb",
+        "youtube":  "https://music.youtube.com/playlist?list=PLN0ftaBOHWE8",
+        "covers":  [
+                       "covers/cvs-01.jpg",
+                       "covers/cvs-02.jpg",
+                       "covers/cvs-03.jpg",
+                       "covers/cvs-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-noraebang",
         "emoji":  "🎤",
         "title":  "퇴근하고 노래방 가고 싶어지는 노래",
