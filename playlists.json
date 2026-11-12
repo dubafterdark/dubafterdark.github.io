@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-wintersea",
+        "emoji":  "🌊",
+        "title":  "겨울 밤바다 보면서 듣는 노래",
+        "desc":  "파도 소리랑 같이 듣는 9곡",
+        "date":  "2026-11-13",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7pgoH4OBQd8EtMaX9v45M0",
+        "youtube":  "https://music.youtube.com/playlist?list=PLSuwEr_Ca8Po",
+        "covers":  [
+                       "covers/sea-01.jpg",
+                       "covers/sea-02.jpg",
+                       "covers/sea-03.jpg",
+                       "covers/sea-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-train",
         "emoji":  "🚆",
         "title":  "늦가을 기차 여행, 돌아오는 저녁 기차",
