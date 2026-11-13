@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-f13",
+        "emoji":  "🐈‍⬛",
+        "title":  "13일의 금요일 점심, 살짝 으스스한 플리",
+        "desc":  "으스스한데 신나서 졸음 깨는 9곡",
+        "date":  "2026-11-13",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7iK59dJx0r3n8xVlYRzBQe",
+        "youtube":  "https://music.youtube.com/playlist?list=PLY1SfgOUOBjU",
+        "covers":  [
+                       "covers/f13-01.jpg",
+                       "covers/f13-02.jpg",
+                       "covers/f13-03.jpg",
+                       "covers/f13-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-wintersea",
         "emoji":  "🌊",
         "title":  "겨울 밤바다 보면서 듣는 노래",
@@ -61,22 +77,6 @@
                        "covers/nrb-02.jpg",
                        "covers/nrb-03.jpg",
                        "covers/nrb-04.jpg"
-                   ]
-    },
-    {
-        "id":  "playlist-f13",
-        "emoji":  "🐈‍⬛",
-        "title":  "13일의 금요일 아침, 살짝 으스스한 출근길",
-        "desc":  "으스스한데 신나서 잠 깨는 9곡",
-        "date":  "2026-11-13",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/7iK59dJx0r3n8xVlYRzBQe",
-        "youtube":  "https://music.youtube.com/playlist?list=PLY1SfgOUOBjU",
-        "covers":  [
-                       "covers/f13-01.jpg",
-                       "covers/f13-02.jpg",
-                       "covers/f13-03.jpg",
-                       "covers/f13-04.jpg"
                    ]
     },
     {
