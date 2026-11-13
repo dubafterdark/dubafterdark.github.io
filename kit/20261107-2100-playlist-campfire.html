@@ -6,7 +6,36 @@ video{width:100%;border-radius:14px;background:#000}h2{font-size:15px;color:#a9c
 pre{white-space:pre-wrap;background:#141d33;border-radius:12px;padding:14px;margin:0;font:14px/1.6 inherit}
 a.b,button{display:inline-block;margin-top:10px;padding:11px 16px;border:0;border-radius:10px;background:#a9c8ff;color:#0b1220;font-weight:700;font-size:15px;text-decoration:none}</style></head>
 <body><main><h1>🎬 캠핑장 불멍하면서 듣는 노래</h1><p class="s">① 영상 저장 → ② 인스타 앱에서 릴스 만들기 → ③ 큐시트대로 곡 넣기 → ④ 캡션 붙여넣기 → ⑤ 바로 공유 (예약 X — 예약하면 곡 구간이 틀어져요) · <b>11/7 (토) 21:00</b></p>
-<video src="https://res.cloudinary.com/fbvnldko/video/upload/v1794047970/dub-after-dark/playlist-campfire/i9iwbzuebsxgdh32p9dm.mp4" controls playsinline></video><a class="b" href="https://res.cloudinary.com/fbvnldko/video/upload/fl_attachment/v1794047970/dub-after-dark/playlist-campfire/i9iwbzuebsxgdh32p9dm.mp4">⬇️ 영상 저장</a>
+<video src="https://res.cloudinary.com/fbvnldko/video/upload/v1794047970/dub-after-dark/playlist-campfire/i9iwbzuebsxgdh32p9dm.mp4" controls playsinline></video><button id="sv" onclick="saveVid(this)">📲 사진첩에 바로 저장</button>
+<script>
+// iPhone: share sheet → 「동영상 저장」 puts it straight into Photos. Android: plain download (Gallery shows the Download folder).
+let vf = null;
+const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+async function saveVid(b) {
+  if (vf) {
+    try { await navigator.share({ files: [vf] }); b.textContent = '✔ 「동영상 저장」 누르면 사진첩에 들어가요'; }
+    catch (e) { if (e.name !== 'AbortError') b.textContent = '⚠️ 안 되면 아래 「⬇️ 영상 저장」'; }
+    return;
+  }
+  b.disabled = true; b.textContent = '⏳ 영상 받는 중…';
+  try {
+    const v = document.querySelector('video'), r = await fetch(v.currentSrc || v.src);
+    const total = +r.headers.get('content-length') || 0, rd = r.body.getReader(), parts = []; let got = 0;
+    for (;;) {
+      const { done, value } = await rd.read(); if (done) break;
+      parts.push(value); got += value.length;
+      if (total) b.textContent = '⏳ 영상 받는 중 ' + Math.round(got / total * 100) + '%';
+    }
+    vf = new File(parts, 'dubafterdark-reel.mp4', { type: 'video/mp4' });
+    if (ios && navigator.canShare && navigator.canShare({ files: [vf] })) {
+      b.disabled = false; b.textContent = '👉 한 번 더 탭 → 「동영상 저장」';   // iOS needs a fresh tap to open the share sheet
+    } else {
+      const a = document.createElement('a'); a.href = URL.createObjectURL(vf); a.download = vf.name; document.body.appendChild(a); a.click();
+      b.disabled = false; b.textContent = '✔ 저장됨 · 갤러리 앱에서 바로 보여요';
+    }
+  } catch (e) { b.disabled = false; b.textContent = '⚠️ 실패 · 다시 탭'; }
+}
+</script> <a class="b" href="https://res.cloudinary.com/fbvnldko/video/upload/fl_attachment/v1794047970/dub-after-dark/playlist-campfire/i9iwbzuebsxgdh32p9dm.mp4">⬇️ 영상 저장</a>
 <h2>캡션</h2><pre id="cap">그냥 불만 봤을 뿐인데 1시간 순삭 🔥 캠핑장 불멍할 때 듣는 노래 추천, 캠핑 플레이리스트
 
 장작 타닥타닥 타는 소리, 마시멜로 하나, 그리고 이 노래들. 불 앞에 멍하니 앉아 있기 좋은 9곡
