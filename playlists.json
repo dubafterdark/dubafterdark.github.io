@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-bungeoppang",
+        "emoji":  "🐟",
+        "title":  "붕어빵 사 먹으며 걷는 겨울 길에 듣는 노래",
+        "desc":  "붕어빵 한 봉지 들고 걷는 겨울 저녁길 9곡",
+        "date":  "2026-11-16",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/351aQCsOh40AlgXtqNGfO3",
+        "youtube":  "https://music.youtube.com/playlist?list=PLH7HsjnbRBbU",
+        "covers":  [
+                       "covers/bung-01.jpg",
+                       "covers/bung-02.jpg",
+                       "covers/bung-03.jpg",
+                       "covers/bung-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-csat-night",
         "emoji":  "🎹",
         "title":  "수능 D-3 밤, 집중이 필요할 때 듣는 피아노",
