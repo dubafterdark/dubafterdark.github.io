@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-csat-night",
+        "emoji":  "🎹",
+        "title":  "수능 D-3 밤, 집중이 필요할 때 듣는 피아노",
+        "desc":  "수능 주간 밤, 공부할 때 집중이 잘 되는 피아노 9곡",
+        "date":  "2026-11-16",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4RUVBNkMOtDvaUp0nrtHzg",
+        "youtube":  "https://music.youtube.com/playlist?list=PLE-QE37Pj-tE",
+        "covers":  [
+                       "covers/csat3-01.jpg",
+                       "covers/csat3-02.jpg",
+                       "covers/csat3-03.jpg",
+                       "covers/csat3-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-csat-evening",
         "emoji":  "🌆",
         "title":  "수능 D-3 저녁, 오늘도 수고했어",
