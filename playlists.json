@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-bungeoppang-3",
+        "emoji":  "🐟",
+        "title":  "붕어빵 사 먹으며 걷는 겨울 길에 듣는 노래",
+        "desc":  "붕어빵 한 봉지 들고 걷는 겨울 저녁길 9곡",
+        "date":  "2026-11-16",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/351aQCsOh40AlgXtqNGfO3",
+        "youtube":  "https://music.youtube.com/playlist?list=PLH7HsjnbRBbU",
+        "covers":  [
+                       "covers/bung-02.jpg",
+                       "covers/bung-01.jpg",
+                       "covers/bung-09.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-miss-you",
         "emoji":  "🌙",
         "title":  "보고 싶은 사람이 생각나는 밤에 듣는 노래",
