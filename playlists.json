@@ -64,22 +64,6 @@
                    ]
     },
     {
-        "id":  "playlist-csat-morning",
-        "emoji":  "📚",
-        "title":  "수능 D-3, 등굣길에 힘이 되는 노래",
-        "desc":  "수능 주간 아침, 이어폰 꽂고 가는 응원 9곡",
-        "date":  "2026-11-16",
-        "post":  "",
-        "spotify":  "https://open.spotify.com/playlist/2HN938Wd4JrkojgaG4JUum",
-        "youtube":  "https://music.youtube.com/playlist?list=PLT4tGezY6nnw",
-        "covers":  [
-                       "covers/csat-01.jpg",
-                       "covers/csat-02.jpg",
-                       "covers/csat-03.jpg",
-                       "covers/csat-04.jpg"
-                   ]
-    },
-    {
         "id":  "playlist-f13",
         "emoji":  "🐈‍⬛",
         "title":  "13일의 금요일 점심, 살짝 으스스한 플리",
