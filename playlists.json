@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-miss-you",
+        "emoji":  "🌙",
+        "title":  "보고 싶은 사람이 생각나는 밤에 듣는 노래",
+        "desc":  "보고 싶은 사람이 생각나는 밤, 그리움을 담은 9곡",
+        "date":  "2026-11-16",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3CdDWMerq1UAkJpgDAlRLs",
+        "youtube":  "https://music.youtube.com/playlist?list=PLC5ppcMME-WI",
+        "covers":  [
+                       "covers/miss-01.jpg",
+                       "covers/miss-02.jpg",
+                       "covers/miss-03.jpg",
+                       "covers/miss-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-bungeoppang",
         "emoji":  "🐟",
         "title":  "붕어빵 사 먹으며 걷는 겨울 길에 듣는 노래",
