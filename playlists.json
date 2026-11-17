@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-big-day-3",
+        "emoji":  "📮",
+        "title":  "내일 큰일 앞둔 사람에게 보내는 노래",
+        "desc":  "말 대신 보내는 응원, 오늘의 3곡 (전곡 9곡)",
+        "date":  "2026-11-18",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/26e4Zhf2slUxYVTL2Lvj8F",
+        "youtube":  "https://music.youtube.com/playlist?list=PLb98laN15R74",
+        "covers":  [
+                       "covers/big-01.jpg",
+                       "covers/big-02.jpg",
+                       "covers/big-03.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-csat-morning",
         "emoji":  "📚",
         "title":  "수능 D-1, 마음 다잡는 아침 노래",
