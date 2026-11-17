@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-csat-free-3",
+        "emoji":  "🎉",
+        "title":  "수능 끝! 해방 플리",
+        "desc":  "시험장 나오면서 크게 트는 해방, 오늘의 3곡 (전곡 9곡)",
+        "date":  "2026-11-18",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6etIPewwyx5ClSsQlSMaIR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLaeTYqVD3cJY",
+        "covers":  [
+                       "covers/free-01.jpg",
+                       "covers/free-02.jpg",
+                       "covers/free-03.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-calm-night",
         "emoji":  "🌙",
         "title":  "긴장 풀어주는 잠들기 전 노래",
