@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-proud-me",
+        "emoji":  "🌙",
+        "title":  "수고한 나에게 주는 노래",
+        "desc":  "큰일 끝난 밤, 여기까지 온 나를 안아주는 9곡",
+        "date":  "2026-11-18",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2UOMolRSSGt9IGAmTDS76v",
+        "youtube":  "https://music.youtube.com/playlist?list=PLe9V6QR10bzA",
+        "covers":  [
+                       "covers/proud-01.jpg",
+                       "covers/proud-02.jpg",
+                       "covers/proud-03.jpg",
+                       "covers/proud-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-csat-free-3",
         "emoji":  "🎉",
         "title":  "수능 끝! 해방 플리",
