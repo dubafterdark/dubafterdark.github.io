@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-csat-morning",
+        "emoji":  "📚",
+        "title":  "수능 D-1, 마음 다잡는 아침 노래",
+        "desc":  "수능 전날 아침, 이어폰 꽂고 마음 다잡는 9곡",
+        "date":  "2026-11-18",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2HN938Wd4JrkojgaG4JUum",
+        "youtube":  "https://music.youtube.com/playlist?list=PLT4tGezY6nnw",
+        "covers":  [
+                       "covers/csat-01.jpg",
+                       "covers/csat-02.jpg",
+                       "covers/csat-03.jpg",
+                       "covers/csat-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-bungeoppang-3",
         "emoji":  "🐟",
         "title":  "붕어빵 사 먹으며 걷는 겨울 길에 듣는 노래",
