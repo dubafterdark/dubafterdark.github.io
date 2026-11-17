@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-calm-night",
+        "emoji":  "🌙",
+        "title":  "긴장 풀어주는 잠들기 전 노래",
+        "desc":  "내일 생각에 잠 안 오는 밤, 불 끄고 틀어놓는 9곡",
+        "date":  "2026-11-18",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5VcC4spsUM69y33dmxBLqW",
+        "youtube":  "https://music.youtube.com/playlist?list=PLJQR53s9qtxo",
+        "covers":  [
+                       "covers/calmnight-01.jpg",
+                       "covers/calmnight-02.jpg",
+                       "covers/calmnight-04.jpg",
+                       "covers/calmnight-05.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-big-day-3",
         "emoji":  "📮",
         "title":  "내일 큰일 앞둔 사람에게 보내는 노래",
