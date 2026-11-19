@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sat-drive",
+        "emoji":  "🌙",
+        "title":  "토요일 밤, 집에 가기 싫어서 한 바퀴 더",
+        "desc":  "창문 살짝 열고 듣는 드라이브 9곡",
+        "date":  "2026-11-20",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/54sIvqi9JkWSRXsWKzJATt",
+        "youtube":  "https://music.youtube.com/playlist?list=PLL88UbaaBYYg",
+        "covers":  [
+                       "covers/satdrive-01.jpg",
+                       "covers/satdrive-02.jpg",
+                       "covers/satdrive-03.jpg",
+                       "covers/satdrive-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sat-out-3",
         "emoji":  "✨",
         "title":  "토요일 저녁, 약속 가는 길",
