@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-first-snow-3",
+        "emoji":  "❄️",
+        "title":  "첫눈 오는 날 듣는 노래",
+        "desc":  "퇴근길 첫눈 맞으며 듣는 3곡 (전곡 9곡)",
+        "date":  "2026-11-20",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7zoI5Tc0866RUezP8R8XqH",
+        "youtube":  "https://music.youtube.com/playlist?list=PLO-I_FpOrzBk",
+        "covers":  [
+                       "covers/snow-01.jpg",
+                       "covers/snow-02.jpg",
+                       "covers/snow-03.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-winter-wake",
         "emoji":  "❄️",
         "title":  "이불 밖으로 나오게 하는 겨울 아침 노래",
