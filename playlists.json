@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-winter-wake",
+        "emoji":  "❄️",
+        "title":  "이불 밖으로 나오게 하는 겨울 아침 노래",
+        "desc":  "추운 아침 몸부터 깨우는 9곡",
+        "date":  "2026-11-20",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4sfjQvCkpsjxAF613HSV1g",
+        "youtube":  "https://music.youtube.com/playlist?list=PLY4C1PBarzsk",
+        "covers":  [
+                       "covers/winterwake-01.jpg",
+                       "covers/winterwake-02.jpg",
+                       "covers/winterwake-03.jpg",
+                       "covers/winterwake-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-proud-me",
         "emoji":  "🌙",
         "title":  "수고한 나에게 주는 노래",
