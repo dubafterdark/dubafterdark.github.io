@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-pre-xmas",
+        "emoji":  "🎄",
+        "title":  "크리스마스 오기 전, 겨울 시작 플리",
+        "desc":  "올겨울을 미리 여는 9곡",
+        "date":  "2026-11-20",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2SL9uMZyDh48bw144Xg0ZZ",
+        "youtube":  "https://music.youtube.com/playlist?list=PLLoMLzmaNx-A",
+        "covers":  [
+                       "covers/xmas-01.jpg",
+                       "covers/xmas-02.jpg",
+                       "covers/xmas-03.jpg",
+                       "covers/xmas-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-first-snow-3",
         "emoji":  "❄️",
         "title":  "첫눈 오는 날 듣는 노래",
