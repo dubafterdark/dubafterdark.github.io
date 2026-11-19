@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-sat-out-3",
+        "emoji":  "✨",
+        "title":  "토요일 저녁, 약속 가는 길",
+        "desc":  "걸음이 빨라지는 3곡 (전곡 9곡)",
+        "date":  "2026-11-20",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/11D07eVAg9W1kZwfZYNHBz",
+        "youtube":  "https://music.youtube.com/playlist?list=PLA30ll2tBxEo",
+        "covers":  [
+                       "covers/satout-01.jpg",
+                       "covers/satout-02.jpg",
+                       "covers/satout-03.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-pre-xmas",
         "emoji":  "🎄",
         "title":  "크리스마스 오기 전, 겨울 시작 플리",
