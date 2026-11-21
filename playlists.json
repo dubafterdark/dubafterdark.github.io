@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-old-photos",
+        "emoji":  "🌙",
+        "title":  "새벽에 괜히 옛날 사진 보는 밤",
+        "desc":  "추억 생각나는 인디 9곡",
+        "date":  "2026-11-21",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4QkOw0vLKU56LE1QGeKkIa",
+        "youtube":  "https://music.youtube.com/playlist?list=PLFd7id1Wvqgk",
+        "covers":  [
+                       "covers/oldphoto-01.jpg",
+                       "covers/oldphoto-02.jpg",
+                       "covers/oldphoto-03.jpg",
+                       "covers/oldphoto-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sun-mikan-3",
         "emoji":  "🍊",
         "title":  "일요일 저녁, 이불 속 귤 까먹는 시간",
