@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-bus-heater",
+        "emoji":  "🚌",
+        "title":  "퇴근 버스 히터에 녹는 겨울 저녁",
+        "desc":  "창문에 김 서린 퇴근길 9곡",
+        "date":  "2026-11-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5qow4o1iS2oj4N5f7BXmbn",
+        "youtube":  "https://music.youtube.com/playlist?list=PLft3fxy3I104",
+        "covers":  [
+                       "covers/heater-01.jpg",
+                       "covers/heater-02.jpg",
+                       "covers/heater-03.jpg",
+                       "covers/heater-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-old-photos",
         "emoji":  "🌙",
         "title":  "새벽에 괜히 옛날 사진 보는 밤",
