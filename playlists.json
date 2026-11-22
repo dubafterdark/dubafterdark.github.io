@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-cold-monday",
+        "emoji":  "🥶",
+        "title":  "영하권 월요일, 정신 번쩍 드는 출근길",
+        "desc":  "추운 월요일 아침 잠 깨우는 9곡",
+        "date":  "2026-11-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/706ru3eEPRAMiTBgI0OKGV",
+        "youtube":  "https://music.youtube.com/playlist?list=PLXwOF3eInrIY",
+        "covers":  [
+                       "covers/coldmon-01.jpg",
+                       "covers/coldmon-02.jpg",
+                       "covers/coldmon-03.jpg",
+                       "covers/coldmon-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-first-winter-alone",
         "emoji":  "❄️",
         "title":  "헤어지고 처음 맞는 겨울 밤",
