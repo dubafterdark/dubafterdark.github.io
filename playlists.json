@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-electric-blanket",
+        "emoji":  "🛏️",
+        "title":  "씻고 나와서 전기장판 켜는 저녁",
+        "desc":  "이불 밖은 위험한 겨울 저녁 9곡",
+        "date":  "2026-11-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/4jqGePP1rIMniIVImfxs8I",
+        "youtube":  "https://music.youtube.com/playlist?list=PLFEIoq_6b5WA",
+        "covers":  [
+                       "covers/blanket2-01.jpg",
+                       "covers/blanket2-02.jpg",
+                       "covers/blanket2-03.jpg",
+                       "covers/blanket2-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-crush-night",
         "emoji":  "🌙",
         "title":  "좋아한다고 말 못 한 밤, 짝사랑 플리",
