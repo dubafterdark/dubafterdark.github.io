@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-crush-night",
+        "emoji":  "🌙",
+        "title":  "좋아한다고 말 못 한 밤, 짝사랑 플리",
+        "desc":  "말 못 한 마음 대신 듣는 9곡",
+        "date":  "2026-11-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/40319vdlYbXyyG4bEn3XXR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLZiQYHVscqYY",
+        "covers":  [
+                       "covers/crush-01.jpg",
+                       "covers/crush-02.jpg",
+                       "covers/crush-03.jpg",
+                       "covers/crush-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-bus-heater",
         "emoji":  "🚌",
         "title":  "퇴근 버스 히터에 녹는 겨울 저녁",
