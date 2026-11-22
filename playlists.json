@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-first-winter-alone",
+        "emoji":  "❄️",
+        "title":  "헤어지고 처음 맞는 겨울 밤",
+        "desc":  "혼자 걷는 첫 겨울 발라드 9곡",
+        "date":  "2026-11-23",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6qlxLIUjTp7FHez01PoQhB",
+        "youtube":  "https://music.youtube.com/playlist?list=PLd2kMB_-CplM",
+        "covers":  [
+                       "covers/firstwinter-01.jpg",
+                       "covers/firstwinter-02.jpg",
+                       "covers/firstwinter-03.jpg",
+                       "covers/firstwinter-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-electric-blanket",
         "emoji":  "🛏️",
         "title":  "씻고 나와서 전기장판 켜는 저녁",
