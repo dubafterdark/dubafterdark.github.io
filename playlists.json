@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-wed-half",
+        "emoji":  "☀️",
+        "title":  "수요일 아침, 딱 반만 버티면 되는 출근길",
+        "desc":  "한 주의 절반 넘기는 수요일 출근길 9곡",
+        "date":  "2026-11-25",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6X8WlMHtGhmPE6jUgVpTS4",
+        "youtube":  "https://music.youtube.com/playlist?list=PLKq1kIl7soJI",
+        "covers":  [
+                       "covers/wedam-01.jpg",
+                       "covers/wedam-02.jpg",
+                       "covers/wedam-03.jpg",
+                       "covers/wedam-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-cold-monday",
         "emoji":  "🥶",
         "title":  "영하권 월요일, 정신 번쩍 드는 출근길",
