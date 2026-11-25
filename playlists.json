@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fogged-window",
+        "emoji":  "🌫️",
+        "title":  "창문에 김 서린 겨울밤, 혼자 듣는 노래",
+        "desc":  "불 끄고 혼자 듣는 겨울밤 인디 9곡",
+        "date":  "2026-11-25",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/70ozPM0YNadldWDdzzN4dL",
+        "youtube":  "https://music.youtube.com/playlist?list=PLJjhJ-w_9lEk",
+        "covers":  [
+                       "covers/fognight-01.jpg",
+                       "covers/fognight-02.jpg",
+                       "covers/fognight-03.jpg",
+                       "covers/fognight-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-dark-commute",
         "emoji":  "🌃",
         "title":  "6시인데 벌써 깜깜한 겨울 퇴근길",
