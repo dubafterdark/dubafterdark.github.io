@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-late-call",
+        "emoji":  "📞",
+        "title":  "통화 끊기 싫어서 5분만 더, 겨울밤 노래",
+        "desc":  "이불 속에서 늦게까지 통화하는 겨울밤 9곡",
+        "date":  "2026-11-25",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/3EovTP0tyhIswWYyQWQTgp",
+        "youtube":  "https://music.youtube.com/playlist?list=PLVPHRGsj3WJ4",
+        "covers":  [
+                       "covers/latecall-01.jpg",
+                       "covers/latecall-03.jpg",
+                       "covers/latecall-04.jpg",
+                       "covers/latecall-06.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-thu-almostfri-3",
         "emoji":  "🙌",
         "title":  "목요일 저녁, 내일만 버티면 금요일",
