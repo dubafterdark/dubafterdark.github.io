@@ -1,5 +1,20 @@
 [
     {
+        "id":  "playlist-thu-almostfri-3",
+        "emoji":  "🙌",
+        "title":  "목요일 저녁, 내일만 버티면 금요일",
+        "desc":  "목요일 저녁 퇴근길 신나는 9곡 (릴스는 3곡)",
+        "date":  "2026-11-25",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1vi5zpz3wm9ZTspGKnAvQ1",
+        "youtube":  "https://music.youtube.com/playlist?list=PLFLzuO_sI59Y",
+        "covers":  [
+                       "covers/thu-eve-01.jpg",
+                       "covers/thu-eve-03.jpg",
+                       "covers/thu-eve-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fogged-window",
         "emoji":  "🌫️",
         "title":  "창문에 김 서린 겨울밤, 혼자 듣는 노래",
