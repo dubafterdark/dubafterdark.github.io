@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-dark-commute",
+        "emoji":  "🌃",
+        "title":  "6시인데 벌써 깜깜한 겨울 퇴근길",
+        "desc":  "6시면 깜깜해지는 겨울 저녁, 퇴근길 감성 9곡",
+        "date":  "2026-11-25",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/30B5ordJe1qooSgT8d75iw",
+        "youtube":  "https://music.youtube.com/playlist?list=PLFaTfedcByvg",
+        "covers":  [
+                       "covers/darkcommute-01.jpg",
+                       "covers/darkcommute-02.jpg",
+                       "covers/darkcommute-03.jpg",
+                       "covers/darkcommute-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-wed-half",
         "emoji":  "☀️",
         "title":  "수요일 아침, 딱 반만 버티면 되는 출근길",
