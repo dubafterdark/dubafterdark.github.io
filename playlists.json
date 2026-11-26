@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sat-walk-home",
+        "emoji":  "🌙",
+        "title":  "친구들 다 보내고 혼자 걷는 토요일 밤 노래",
+        "desc":  "토요일 밤 혼자 집까지 걸어가며 듣는 9곡",
+        "date":  "2026-11-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/2FnwQJxNvSijb8KOOX8NX1",
+        "youtube":  "https://music.youtube.com/playlist?list=PLRdOSrD9s6Sg",
+        "covers":  [
+                       "covers/satwalk-01.jpg",
+                       "covers/satwalk-02.jpg",
+                       "covers/satwalk-03.jpg",
+                       "covers/satwalk-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-sat-pocha",
         "emoji":  "🍻",
         "title":  "토요일 저녁, 포차에서 떼창하는 노래",
