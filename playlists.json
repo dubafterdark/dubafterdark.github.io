@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-last-fri-nov",
+        "emoji":  "☀️",
+        "title":  "11월 마지막 금요일, 출근길 노래",
+        "desc":  "주말 앞두고 텐션 올리는 금요일 아침 9곡",
+        "date":  "2026-11-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/6Z3CZTGrtu16kuN3GlIYfZ",
+        "youtube":  "https://music.youtube.com/playlist?list=PLMrU9pYB5o-I",
+        "covers":  [
+                       "covers/lastfri-02.jpg",
+                       "covers/lastfri-03.jpg",
+                       "covers/lastfri-04.jpg",
+                       "covers/lastfri-05.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-late-call",
         "emoji":  "📞",
         "title":  "통화 끊기 싫어서 5분만 더, 겨울밤 노래",
