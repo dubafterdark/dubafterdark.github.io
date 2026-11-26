@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fri-night-home",
+        "emoji":  "🕯️",
+        "title":  "불금인데 집이 제일 좋음, 혼자 듣는 밤 노래",
+        "desc":  "약속 없이 혼자 보내는 금요일 밤 9곡",
+        "date":  "2026-11-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/5v2STtROoE9Bw6lU4wkgZ6",
+        "youtube":  "https://music.youtube.com/playlist?list=PLZs1_Vq9aoFk",
+        "covers":  [
+                       "covers/frihome-01.jpg",
+                       "covers/frihome-02.jpg",
+                       "covers/frihome-03.jpg",
+                       "covers/frihome-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fri-clockout",
         "emoji":  "🎉",
         "title":  "금요일 6시 칼퇴 성공, 불금 퇴근길 노래",
