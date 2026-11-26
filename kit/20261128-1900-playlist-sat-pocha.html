@@ -1,0 +1,64 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><title>릴스 키트 · 토요일 저녁, 포차에서 떼창하는 노래</title>
+<style>body{margin:0;background:#0b1220;color:#e8eefc;font:16px/1.55 -apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif}
+main{max-width:560px;margin:0 auto;padding:20px 16px 48px}h1{font-size:20px;margin:0 0 4px}p.s{color:#93a4c8;margin:0 0 18px;font-size:14px}
+video{width:100%;border-radius:14px;background:#000}h2{font-size:15px;color:#a9c8ff;margin:24px 0 8px}
+pre{white-space:pre-wrap;background:#141d33;border-radius:12px;padding:14px;margin:0;font:14px/1.6 inherit}
+a.b,button{display:inline-block;margin-top:10px;padding:11px 16px;border:0;border-radius:10px;background:#a9c8ff;color:#0b1220;font-weight:700;font-size:15px;text-decoration:none}</style></head>
+<body><main><h1>🎬 토요일 저녁, 포차에서 떼창하는 노래</h1><p class="s">① 영상 저장 → ② 인스타 앱에서 릴스 만들기 → ③ 큐시트대로 곡 넣기 → ④ 캡션 붙여넣기 → ⑤ 바로 공유 (예약 X — 예약하면 곡 구간이 틀어져요) · <b>11/28 (토) 19:00</b></p>
+<video src="https://res.cloudinary.com/fbvnldko/video/upload/v1795732816/dub-after-dark/playlist-sat-pocha/b1liedxyy35mwhqgnnwg.mp4" controls playsinline></video><button id="sv" onclick="saveVid(this)">📲 사진첩에 바로 저장</button>
+<script>
+// iPhone: share sheet → 「동영상 저장」 puts it straight into Photos. Android: plain download (Gallery shows the Download folder).
+let vf = null;
+const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+async function saveVid(b) {
+  if (vf) {
+    try { await navigator.share({ files: [vf] }); b.textContent = '✔ 「동영상 저장」 누르면 사진첩에 들어가요'; }
+    catch (e) { if (e.name !== 'AbortError') b.textContent = '⚠️ 안 되면 아래 「⬇️ 영상 저장」'; }
+    return;
+  }
+  b.disabled = true; b.textContent = '⏳ 영상 받는 중…';
+  try {
+    const v = document.querySelector('video'), r = await fetch(v.currentSrc || v.src);
+    const total = +r.headers.get('content-length') || 0, rd = r.body.getReader(), parts = []; let got = 0;
+    for (;;) {
+      const { done, value } = await rd.read(); if (done) break;
+      parts.push(value); got += value.length;
+      if (total) b.textContent = '⏳ 영상 받는 중 ' + Math.round(got / total * 100) + '%';
+    }
+    vf = new File(parts, 'dubafterdark-reel.mp4', { type: 'video/mp4' });
+    if (ios && navigator.canShare && navigator.canShare({ files: [vf] })) {
+      b.disabled = false; b.textContent = '👉 한 번 더 탭 → 「동영상 저장」';   // iOS needs a fresh tap to open the share sheet
+    } else {
+      const a = document.createElement('a'); a.href = URL.createObjectURL(vf); a.download = vf.name; document.body.appendChild(a); a.click();
+      b.disabled = false; b.textContent = '✔ 저장됨 · 갤러리 앱에서 바로 보여요';
+    }
+  } catch (e) { b.disabled = false; b.textContent = '⚠️ 실패 · 다시 탭'; }
+}
+</script> <a class="b" href="https://res.cloudinary.com/fbvnldko/video/upload/fl_attachment/v1795732816/dub-after-dark/playlist-sat-pocha/b1liedxyy35mwhqgnnwg.mp4">⬇️ 영상 저장</a>
+<h2>캡션</h2><pre id="cap">토요일 저녁, 포차에서 떼창 시작 🍻 친구들이랑 듣는 노래 추천, 다 같이 따라 부르는 떼창 플리
+
+오랜만에 다 모인 토요일 저녁. 안주 나오기도 전에 누가 노래 틀면, 첫 소절부터 다 같이 따라 부르게 되는 9곡
+BIGBANG &#183; Red Velvet &#183; 전람회 &#183; 아이유 &#183; 소녀시대 &#183; Taylor Swift &#183; Doja Cat &#183; 임영웅 &#183; 조째즈
+
+9곡 중에 친구들이랑 제일 크게 떼창하는 곡, 번호만 댓글로 남겨주세요 💬 (저는 1번)
+🎧 전곡 듣기 → 프로필 링크 「🎧 플리 전곡 듣기」
+📌 저장해두고 친구들 모이는 날 꺼내 듣기
+💌 오늘 같이 있는 친구들한테 보내주세요
+➕ 팔로우하면 매일 저녁 7시&#183;밤 9시 새 플리가 올라와요
+
+#토요일 #떼창노래 #노래추천 #플레이리스트 #playlist</pre><button onclick="navigator.clipboard.writeText(document.getElementById('cap').innerText).then(()=>this.textContent='✔ 복사됨')">📋 캡션 복사</button>
+<h2>큐시트 (곡 넣는 타이밍)</h2><pre>릴스 큐시트 — playlist-sat-pocha (전체 0:52)
+
+0:00 ~ 0:08  01. 하루하루 — BIGBANG
+0:08 ~ 0:13  02. Bad Boy — Red Velvet
+0:13 ~ 0:18  03. 취중진담 — 전람회
+0:18 ~ 0:23  04. 내 손을 잡아 — 아이유
+0:23 ~ 0:28  05. I GOT A BOY — 소녀시대
+0:28 ~ 0:33  06. Cruel Summer — Taylor Swift
+0:33 ~ 0:38  07. Kiss Me More — Doja Cat (feat. SZA)
+0:38 ~ 0:43  08. 사랑은 늘 도망가 — 임영웅
+0:43 ~ 0:52  09. 모르시나요 — 조째즈
+
+각 곡은 후렴(하이라이트) 구간으로 맞추면 좋아요. 마지막 곡은 끝 화면까지 이어서 깔아요.
+⭐ 1번 곡은 0:00부터, 꼭 제일 유명한 후렴(하이라이트)으로 — 첫 2초에 넘길지 정해요.</pre></main></body></html>
