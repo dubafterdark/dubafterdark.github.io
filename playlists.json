@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-sat-pocha",
+        "emoji":  "🍻",
+        "title":  "토요일 저녁, 포차에서 떼창하는 노래",
+        "desc":  "친구들이랑 다 같이 따라 부르는 떼창 9곡",
+        "date":  "2026-11-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/1XQdq7SStfeEkOWyU7JujL",
+        "youtube":  "https://music.youtube.com/playlist?list=PLKEhpQennSmE",
+        "covers":  [
+                       "covers/satpocha-01.jpg",
+                       "covers/satpocha-02.jpg",
+                       "covers/satpocha-03.jpg",
+                       "covers/satpocha-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-fri-night-home",
         "emoji":  "🕯️",
         "title":  "불금인데 집이 제일 좋음, 혼자 듣는 밤 노래",
