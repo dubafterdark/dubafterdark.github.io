@@ -1,5 +1,21 @@
 [
     {
+        "id":  "playlist-fri-clockout",
+        "emoji":  "🎉",
+        "title":  "금요일 6시 칼퇴 성공, 불금 퇴근길 노래",
+        "desc":  "약속 장소 가면서 텐션 올리는 불금 퇴근길 9곡",
+        "date":  "2026-11-27",
+        "post":  "",
+        "spotify":  "https://open.spotify.com/playlist/7nmx8oKc67LBdDCnZsjtwR",
+        "youtube":  "https://music.youtube.com/playlist?list=PLGl7A6FCc5HI",
+        "covers":  [
+                       "covers/clockout-01.jpg",
+                       "covers/clockout-02.jpg",
+                       "covers/clockout-03.jpg",
+                       "covers/clockout-04.jpg"
+                   ]
+    },
+    {
         "id":  "playlist-last-fri-nov",
         "emoji":  "☀️",
         "title":  "11월 마지막 금요일, 출근길 노래",
